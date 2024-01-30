@@ -52,7 +52,7 @@ jobs:
           ossutil config -L CH -e ${{ secrets.OSS_ENDPOINT }} -i ${{ secrets.OSS_ACCESS_KEY_ID }} -k ${{ secrets.OSS_ACCESS_KEY_SECRET }}
       
       - name: 上传dist下内容至阿里云OSS
-        run: ossutil64 cp -r /home/runner/work/YsServer-HelpPage-New/YsServer-HelpPage-New/docs/.vuepress/dist/ oss://helppage/
+        run: ossutil64 cp -r /home/runner/work/YsServer-HelpPage-New/YsServer-HelpPage-New/docs/.vuepress/dist/ oss://helppage/ -u -f
 
 #      - name: 部署文档
 #        uses: JamesIves/github-pages-deploy-action@v4
