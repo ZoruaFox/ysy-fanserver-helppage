@@ -17,7 +17,7 @@ export default defineUserConfig({
     docsRepo: 'https://github.com/ZoruaFox/ysy-fanserver-helppage',
     docsBranch: 'master',
     docsDir: 'docs',
-    editLinkPattern: ':repo/-/edit/:branch/:path',
+    editLinkPattern: ':repo/edit/:branch/:path',
     lastUpdated: '最后更新', // last updated text
     notFound: ['页面不存在', '找不到此页面', '404'],
     backToHome: '返回首页', // back to home page text
