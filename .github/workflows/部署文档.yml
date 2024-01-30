@@ -1,10 +1,11 @@
 name: 部署文档
 
 on:
-  push:
-    branches:
+#  push:
+#    branches:
       # 确保这是你正在使用的分支名称
-      - main
+#      - main
+    workflow_dispatch:
 
 permissions:
   contents: write
