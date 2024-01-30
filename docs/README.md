@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: images/background@2x.png
 heroText: 欢迎来到我的文档
 tagline: 这是一个示例文档
 actionText: 快速开始 →
