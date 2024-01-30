@@ -1,10 +1,11 @@
 ---
 home: true
 heroImage: images/background@2x.png
-heroText: 欢迎来到我的文档
-tagline: 这是一个示例文档
-actionText: 快速开始 →
-actionLink: /guide/
+heroText: 有兽焉 Minecraft 粉丝服帮助文档
+actions:
+  - text: 开始
+    link: /info/basic.md
+    type: primary
 features:
 - title: 简洁明了
   details: 采用简洁的语法和清晰的结构，使文档易于阅读和理解。
@@ -13,10 +14,6 @@ features:
 - title: 自定义配置
   details: 可以根据自己的需求进行配置，包括导航栏、侧边栏、样式等。
 ---
-
-# 欢迎来到我的文档
-
-这是一个示例文档，用于演示 VuePress 的基本用法。
 
 ## 快速开始
 
