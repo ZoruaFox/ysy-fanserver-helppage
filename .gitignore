@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build directory
+/.vuepress/dist/
+
+# Cache and generated files
+/docs/.vuepress/.temp/
+/docs/.vuepress/.cache/
+/docs/.vuepress/styles/
+
+# Output files
+.DS_Store
+Thumbs.db
