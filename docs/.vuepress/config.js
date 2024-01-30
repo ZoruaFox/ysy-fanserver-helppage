@@ -5,7 +5,7 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   lang: 'zh-CN',
 
-  base: '/YsServer-HelpPage-New/',
+  base: '/',
 
   title: '有兽焉粉丝服务器帮助页',
   description: '阿巴',

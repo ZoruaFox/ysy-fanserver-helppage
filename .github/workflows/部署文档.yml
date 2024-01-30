@@ -1,14 +1,14 @@
-name: 部署文档
+name: 网站构建与部署
 
 on:
   push:
     branches:
       # 确保这是你正在使用的分支名称
       - master
-    workflow_dispatch:
+  workflow_dispatch:
 
-permissions:
-  contents: write
+#permissions:
+#  contents: write
 
 jobs:
   deploy-gh-pages:
