@@ -61,6 +61,8 @@ export default defineUserConfig({
     ],
   }),
 
+  smoothScroll: true,
+
   plugins: [
     backToTopPlugin(),
     mediumZoomPlugin(),
