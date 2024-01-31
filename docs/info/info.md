@@ -52,7 +52,7 @@
 
 > 注意：领地收费为：0.02 金球球/格
 
-> ![img](../static/image/residenceset.png)
+> ![img](/images/residenceset.png)
 
 更多的指令帮助，直接输入`/res`即可。
 
@@ -67,7 +67,7 @@
 服务器的聊天系统得益于插件功能与原版有别，配合聊天框指令可实现更多功能。
 输入以下指令，可以激活对应功能。亦可以通过在服务器中输入  `/interactivechat list` 查看。
 
-![img](../static/image/interactivechat.png)
+![img](/images/interactivechat.png)
 
 ## 9、装备强化
 

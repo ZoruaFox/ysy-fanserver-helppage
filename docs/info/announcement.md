@@ -11,7 +11,7 @@ Minecraft Java版支持Windows和多个以PC为主的系统，而基岩版支持
 - 如果你想在电脑上玩Minecraft基岩版，你需要下载Windows 10版的客户端。你可以在Microsoft Store或者Minecraft官网购买和下载。
 - 如果你想在手机上玩Minecraft基岩版，你需要下载Android或者iOS版的客户端²。你可以在Google Play或者App Store购买和下载。
 - 额外的，对于Android用户，如果Google Play商店要求付费，你可以加入有兽焉粉丝服官群，找到群文件中“其他文件”文件夹，下载“Minecraft_1.19.70.02.apk”文件并安装。
-> ![img](../static/image/BEDownloadpage.png)
+> ![img](/images/BEDownloadpage.png)
 
 ## 第二步 注册Xbox账户
 - 为了能够在线玩Minecraft基岩版，你需要注册一个Xbox账户²。如果你已经有一个Xbox账户，你可以跳过这一步。
@@ -20,7 +20,7 @@ Minecraft Java版支持Windows和多个以PC为主的系统，而基岩版支持
 > <font color=red>！！注意：在Xbox玩家标签中不要使用中文，也不要使用下划线，也 不 要 使 用 空 格。这很重要</font>
 
 > <font color=red>**注意：你的Xbox账户必须与你的游戏ID相一致，如果你拥有一个Java版ID，请确保你的 Xbox玩家标签 保持一致，否则你将无法登入服务器。**</font>
-![img](../static/image/XboxMainPage.png)
+![img](/images/XboxMainPage.png)
 
 > 关于如何更改玩家标签，可以登录[Xbox官网](https://account.xbox.com/zh-CN/Profile)，点击“自定义”按钮，在弹出的页面中点击玩家名旁边的“编辑”按钮，输入新的玩家名并点击“保存”按钮即可。
 
@@ -32,16 +32,16 @@ Minecraft Java版支持Windows和多个以PC为主的系统，而基岩版支持
 ## 第三步 添加服务器
 - 在客户端的主菜单中，点击游戏，选择“服务器”选项卡，并点击“添加服务器”按钮。
 
-> ![img](../static/image/addserver.jpg)
+> ![img](/images/addserver.jpg)
 
 - 在弹出的窗口中，输入第三方服务器的名称、地址和端口号（默认的19132就行）。
 
-> ![img](../static/image/addserver2.jpg)
+> ![img](/images/addserver2.jpg)
 
 - 点击“保存”按钮，就可以看到服务器出现在服务器列表中。
 - 点击服务器图标，就可以进入服务器开始游戏了。
 
-> ![img](../static/image/enterserver.jpg)
+> ![img](/images/enterserver.jpg)
 
 ## 注意事项
 

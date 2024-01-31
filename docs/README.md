@@ -4,7 +4,7 @@ heroImage: images/background@2x.png
 heroText: 有兽焉 Minecraft 粉丝服帮助文档
 actions:
   - text: 阅读帮助文档
-    link: /info/basic.md
+    link: /info
     type: primary
   - text: 加入服务器
     link: /info/install.md

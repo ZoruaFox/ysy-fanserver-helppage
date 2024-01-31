@@ -12,7 +12,7 @@ export default defineUserConfig({
   theme: defaultTheme({ // @vuepress/theme-default
     colorMode: 'auto', // auto | light | dark
     colorModeSwitch: true, // true | false
-    toggleColorMode: '切换主题', 
+    toggleColorMode: '切换主题',
     sidebar: 'auto',
     toggleSidebar: '切换侧边栏', // toggle sidebar text
     home: '/', // home page
@@ -32,7 +32,21 @@ export default defineUserConfig({
     warning: '注意', // warning text
     danger: '警告', // danger text
     openInNewWindow: '在新窗口打开', // open in new window text
-  }), 
+    sidebar: {
+      '/info/': [
+        {
+          text: '有兽焉 Minecraft 粉丝服帮助文档',
+          children: [
+            '/info/README.md',
+            '/info/install.md',
+            '/info/announcement.md',
+            '/info/info.md',
+            '/info/commands.md',
+            '/info/changelog.md',],
+        },
+      ],
+    },
+  }),
 
   plugins: [
     backToTopPlugin(),
@@ -40,7 +54,7 @@ export default defineUserConfig({
     nprogressPlugin(),
     shikiPlugin({
       // 配置项
-      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java','powershell'],
+      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell'],
     }),
   ],
 
@@ -51,7 +65,7 @@ export default defineUserConfig({
   title: '有兽焉粉丝服务器帮助页', // title
   description: '阿巴', // description
   head: [
-    ['meta', { name: 'favicon', content: '/images/logo.png'}]
+    ['meta', { name: 'favicon', content: '/images/logo.png' }]
   ],
 
 
