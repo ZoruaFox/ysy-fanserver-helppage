@@ -35,7 +35,7 @@
 ## 5、收购商店
 主菜单的收购商店可以将物品换为金球球。
 
-![img](https://s1.ax1x.com/2022/06/09/XynkVJ.png)
+![物品收购](https://s1.ax1x.com/2022/06/09/XynkVJ.png)
 
 ## 6、领地
 ### 关于领地
@@ -52,7 +52,7 @@
 
 > 注意：领地收费为：0.02 金球球/格
 
-> ![img](/images/residenceset.png)
+> ![领地选择](/images/residenceset.png)
 
 更多的指令帮助，直接输入`/res`即可。
 
@@ -67,7 +67,7 @@
 服务器的聊天系统得益于插件功能与原版有别，配合聊天框指令可实现更多功能。
 输入以下指令，可以激活对应功能。亦可以通过在服务器中输入  `/interactivechat list` 查看。
 
-![img](/images/interactivechat.png)
+![聊天系统](/images/interactivechat.png)
 
 ## 9、装备强化
 
