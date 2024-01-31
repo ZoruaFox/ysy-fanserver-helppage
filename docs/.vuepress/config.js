@@ -6,6 +6,7 @@ import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
+import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 
 export default defineUserConfig({
   bundler: viteBundler(), // vite
@@ -26,7 +27,7 @@ export default defineUserConfig({
     notFound: ['你来到了啥也没有的地方'],
     backToHome: '返回首页', // back to home page text
     contributors: true, // true | false
-    contributorsText: '内容贡献者', // contributors text
+    contributorsText: '最新贡献者', // contributors text
     tip: '提示', // tip text
     warning: '注意', // warning text
     danger: '警告', // danger text
@@ -55,6 +56,19 @@ export default defineUserConfig({
     shikiPlugin({
       // 配置项
       langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell'],
+    }),
+    mdEnhancePlugin({
+      tasklist: true,
+      // Enable figure
+      figure: true,
+      // Enable image lazyload
+      imgLazyload: true,
+      // Enable image mark
+      imgMark: true,
+      // Enable image size
+      imgSize: true,
+     // Enable Footnote
+      footnote: true,
     }),
   ],
 
