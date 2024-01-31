@@ -71,6 +71,8 @@ export default defineUserConfig({
     }),
     mdEnhancePlugin({
       tasklist: true,
+      // Enable figure
+      figure: true,
       // Enable image lazyload
       imgLazyload: true,
       // Enable image mark
