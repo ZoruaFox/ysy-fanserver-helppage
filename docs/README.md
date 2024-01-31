@@ -18,12 +18,14 @@ actions:
 #  details: 可以根据自己的需求进行配置，包括导航栏、侧边栏、样式等。
 ---
 
-有兽焉服务器帮助中心</br>
-服务器群号：<span class="iconfont ic-qq">&#xe611;</span> `971327134`</br>
+有兽焉服务器帮助中心
+
+服务器群号：`971327134`
+
 加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
-</br>
+
+
 ![img](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![img](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)
 
-``` python
-print("Hello World!")
-```
+
+<span class="record">©2024 有兽焉粉丝服务器<br>[晋ICP备2023005192](https://beian.miit.gov.cn/)</span>
