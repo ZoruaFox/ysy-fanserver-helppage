@@ -7,7 +7,7 @@ actions:
     link: /info/basic.md
     type: primary
   - text: 加入服务器
-    link: /info/join.md
+    link: /info/install.md
     type: secondary
 #features:
 #- title: 简洁明了
