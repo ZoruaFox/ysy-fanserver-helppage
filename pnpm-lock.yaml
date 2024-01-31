@@ -24,8 +24,8 @@ devDependencies:
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-shiki':
-    specifier: 2.0.0-rc.1
-    version: 2.0.0-rc.1(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.3
+    version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
   '@vuepress/theme-default':
     specifier: 2.0.0-rc.2
     version: 2.0.0-rc.2(vuepress@2.0.0-rc.2)
@@ -1338,8 +1338,8 @@ packages:
       vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
     dev: true
 
-  /@vuepress/plugin-shiki@2.0.0-rc.1(vuepress@2.0.0-rc.2):
-    resolution: {integrity: sha512-5Y9EezYk+VhSp167og1x4cpZUmxcErsV+Q+s929jUygEhHwh9Q2aZJN4k82W1K9sk/AJw2CBpSF1787STfIOpQ==}
+  /@vuepress/plugin-shiki@2.0.0-rc.3(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-q6God6sEWr1InLizZHBLXIboEkCVXSOXNeJSoH+buofGrrHXCjA937UVMSUTLP4RZ9b21QXHLsyrRQvoEpa4yQ==}
     peerDependencies:
       vuepress: 2.0.0-rc.2
     dependencies:
