@@ -46,6 +46,18 @@ export default defineUserConfig({
         },
       ],
     },
+    navbar: [
+      {
+        text: '帮助文档',
+        children: [
+          '/info/README.md',
+          '/info/install.md',
+          '/info/announcement.md',
+          '/info/info.md',
+          '/info/commands.md',
+          '/info/changelog.md',],
+      },
+    ],
   }),
 
   plugins: [
