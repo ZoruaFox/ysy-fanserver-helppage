@@ -82,6 +82,10 @@ export default defineUserConfig({
      // Enable Footnote
       footnote: true,
     }),
+    docsearchPlugin({
+      // 配置项
+      placeholder: '搜索',
+    }),
   ],
 
   lang: 'zh-CN', // zh-CN | en-US
