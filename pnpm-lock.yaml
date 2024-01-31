@@ -15,8 +15,8 @@ devDependencies:
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-docsearch':
-    specifier: 2.0.0-rc.1
-    version: 2.0.0-rc.1(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.3
+    version: 2.0.0-rc.3(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-medium-zoom':
     specifier: 2.0.0-rc.1
     version: 2.0.0-rc.1(vuepress@2.0.0-rc.2)
@@ -1229,8 +1229,8 @@ packages:
       vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
     dev: true
 
-  /@vuepress/plugin-docsearch@2.0.0-rc.1(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2):
-    resolution: {integrity: sha512-oawNWGYm4JIeRH6o97muiHQVG+JvFPLX7v5LGD7N4uUm92GYJXIlLqzJer7jekkHhq7VigSWqvXFybCqI2R53w==}
+  /@vuepress/plugin-docsearch@2.0.0-rc.3(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-3kf05fviNAahFXNLCOcQEgn/cjJLshCEf6oiezA8Jr6ABj6Q38Ky+nFjX/AjCaoWsyiG4BfbRRxuqxYvsDEimQ==}
     peerDependencies:
       vuepress: 2.0.0-rc.2
     dependencies:
