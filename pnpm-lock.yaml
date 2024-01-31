@@ -18,8 +18,8 @@ devDependencies:
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-medium-zoom':
-    specifier: 2.0.0-rc.1
-    version: 2.0.0-rc.1(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.3
+    version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-nprogress':
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
@@ -1274,6 +1274,18 @@ packages:
 
   /@vuepress/plugin-medium-zoom@2.0.0-rc.1(vuepress@2.0.0-rc.2):
     resolution: {integrity: sha512-5d19cu5z0adXf/HDqFHYcM2dBMlBgK90CAr7YnKgj/nmv2dl6bQ2AtHENUNxOx35c4F3TGgvit9fl+MIaQmrVg==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.2
+    dependencies:
+      medium-zoom: 1.1.0
+      vue: 3.4.15
+      vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
+    transitivePeerDependencies:
+      - typescript
+    dev: true
+
+  /@vuepress/plugin-medium-zoom@2.0.0-rc.3(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-qRdUt914tQGfmxcqOwnoC6paZLsAJf2S7kllvf59dDKIDg2JlYsAuOq13wps4/hfuUySe9RDlitl6KcqWfvKfw==}
     peerDependencies:
       vuepress: 2.0.0-rc.2
     dependencies:
