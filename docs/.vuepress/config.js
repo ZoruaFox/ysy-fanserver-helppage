@@ -31,6 +31,7 @@ export default defineUserConfig({
     warning: '注意', // warning text
     danger: '警告', // danger text
     openInNewWindow: '在新窗口打开', // open in new window text
+    // logo: '/images/logo.png', 这个皮皮好可爱（
     sidebar: {
       '/info/': [
         {
@@ -58,14 +59,8 @@ export default defineUserConfig({
   ],
 
   lang: 'zh-CN', // zh-CN | en-US
-
   public: 'docs/public', // public dir
-
   title: '有兽焉粉丝服务器帮助页', // title
   description: '阿巴', // description
-  head: [
-    ['meta', { name: 'favicon', content: '/images/logo.png' }]
-  ],
-
-
+  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
 })
