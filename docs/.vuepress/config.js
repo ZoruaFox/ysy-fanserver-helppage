@@ -40,7 +40,7 @@ export default defineUserConfig({
     nprogressPlugin(),
     shikiPlugin({
       // 配置项
-      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python'],
+      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java','powershell'],
     }),
   ],
 
