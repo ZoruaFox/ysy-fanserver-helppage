@@ -13,7 +13,6 @@ export default defineUserConfig({
     colorMode: 'auto', // auto | light | dark
     colorModeSwitch: true, // true | false
     toggleColorMode: '切换主题',
-    sidebar: 'auto',
     toggleSidebar: '切换侧边栏', // toggle sidebar text
     home: '/', // home page
     repo: 'ZoruaFox/ysy-fanserver-helppage',
