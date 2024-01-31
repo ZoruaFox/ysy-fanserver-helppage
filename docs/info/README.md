@@ -30,7 +30,7 @@
     <div class="frame">
         <iframe src="https://afdian.net/leaflet?slug=zoruafox" width="100%" scrolling="no" height="200" frameborder="0"
             marginwidth="0" marginheight="0"></iframe>
-        <a href="https://afdian.net/a/ZoruaFox" target="_blank"><img width="10  0%"
+        <a href="https://afdian.net/a/ZoruaFox" target="_blank"><img width="100%"
                 src="https://cos.zorua.top/Sponsor/sponsors.svg" alt="赞助名单" /></a>
         </div>
     </div>
