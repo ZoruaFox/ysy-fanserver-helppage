@@ -3,22 +3,27 @@ home: true
 heroImage: images/background@2x.png
 heroText: 有兽焉 Minecraft 粉丝服帮助文档
 actions:
-  - text: 开始
+  - text: 阅读帮助文档
     link: /info/basic.md
     type: primary
-features:
-- title: 简洁明了
-  details: 采用简洁的语法和清晰的结构，使文档易于阅读和理解。
-- title: 强大扩展性
-  details: VuePress 提供了丰富的插件和主题，可以满足各种文档需求。
-- title: 自定义配置
-  details: 可以根据自己的需求进行配置，包括导航栏、侧边栏、样式等。
+  - text: 加入服务器
+    link: /info/join.md
+    type: secondary
+#features:
+#- title: 简洁明了
+#  details: 采用简洁的语法和清晰的结构，使文档易于阅读和理解。
+#- title: 强大扩展性
+#  details: VuePress 提供了丰富的插件和主题，可以满足各种文档需求。
+#- title: 自定义配置
+#  details: 可以根据自己的需求进行配置，包括导航栏、侧边栏、样式等。
 ---
 
-## 快速开始
+有兽焉服务器帮助中心</br>
+服务器群号：<span class="iconfont ic-qq">&#xe611;</span> `971327134`</br>
+加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
+</br>
+![img](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![img](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)
 
-请点击下方按钮开始阅读文档。
-
-::: tip 提示
-本文档使用 VuePress 生成，支持 Markdown 语法。
-:::
+``` python
+print("Hello World!")
+```
