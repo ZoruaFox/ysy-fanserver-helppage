@@ -1,4 +1,4 @@
-name: 网站构建与部署
+name: Website Deploy
 
 on:
   push:

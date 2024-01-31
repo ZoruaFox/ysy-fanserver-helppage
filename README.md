@@ -1,4 +1,5 @@
 # 有兽焉粉丝服帮助页面
+![部署网站](https://github.com/ZoruaFox/ysy-fanserver-helppage/actions/workflows/部署文档.yml/badge.svg)
 
 本仓库为有兽焉粉丝服的帮助页面源代码，使用VuePress构建。
 
