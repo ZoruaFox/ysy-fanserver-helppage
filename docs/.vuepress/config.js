@@ -32,31 +32,81 @@ export default defineUserConfig({
     warning: '注意', // warning text
     danger: '警告', // danger text
     openInNewWindow: '在新窗口打开', // open in new window text
-    // logo: '/images/logo.png', 这个皮皮好可爱（
-    sidebar: {
-      '/info/': [
-        {
-          text: '有兽焉 Minecraft 粉丝服帮助文档',
-          children: [
-            '/info/README.md',
-            '/info/install.md',
-            '/info/announcement.md',
-            '/info/info.md',
-            '/info/commands.md',
-            '/info/changelog.md',],
-        },
-      ],
-    },
-    navbar: [
+    logo: '/images/logo.png', //这个皮皮好可爱（
+    // 侧边栏数组
+    // 所有页面会使用相同的侧边栏
+    sidebar: [
+      // SidebarItem
       {
-        text: '帮助文档',
+        text: '概述',
+        link: '/info/aboutdoc.md',
+        collapsible: true,
         children: [
-          '/info/README.md',
-          '/info/install.md',
-          '/info/announcement.md',
-          '/info/info.md',
-          '/info/commands.md',
-          '/info/changelog.md',],
+          // SidebarItem
+          {
+            text: '文档概述',
+            link: '/info/aboutdoc.md',
+            children: [],
+          },
+          {
+            text: '基本信息',
+            link: '/info/basic.md',
+            children: [],
+          },
+          // 字符串 - 页面文件路径
+        ],
+      },
+      {
+        text: '加入服务器',
+        link: '/join/java.md',
+        collapsible: true,
+        children: [
+          // SidebarItem
+          {
+            text: 'Java版',
+            link: '/join/java.md',
+            children: [],
+          },
+          {
+            text: '基岩版（网易）',
+            link: '/join/bedrock-ne.md',
+            children: [],
+          },
+          // 字符串 - 页面文件路径
+        ],
+      },
+    ],
+    navbar: [
+      // NavbarItem
+      {
+        text: '概述',
+        children: [
+          {
+            text: '文档概述',
+            link: '/info/aboutdoc.md',
+          },
+          {
+            text: '服务器信息',
+            link: '/info/basic.md',
+          },
+        ],
+      },
+      {
+        text: '加入服务器',
+        children: [
+          {
+            text: 'Java版',
+            link: '/join/java.md',
+          },
+          {
+            text: '（尚未支持）基岩版（国际）',
+            link: '。',
+          },
+          {
+            text: '基岩版（网易）',
+            link: '/join/bedrock-ne.md',
+          },
+        ],
       },
     ],
   }),
@@ -92,7 +142,7 @@ export default defineUserConfig({
 
   lang: 'zh-CN', // zh-CN | en-US
   public: 'docs/public', // public dir
-  title: '有兽焉粉丝服务器帮助页', // title
-  description: '阿巴', // description
+  title: '有兽焉粉丝服务器帮助中心', // title
+  description: '有兽焉 Minecraft Java 国际版粉丝服务器', // description
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
 })
