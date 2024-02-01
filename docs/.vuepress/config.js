@@ -1,9 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
-import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
-import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
@@ -56,15 +53,15 @@ export default defineUserConfig({
         text: '概述',
         link: '/info/aboutdoc.md',
         collapsible: true,
-        children: ['/info/aboutdoc.md','/info/basic.md'],
+        children: ['/info/aboutdoc.md', '/info/basic.md'],
       },
       {
         text: '加入服务器',
         link: '/join/java.md',
         collapsible: true,
-        children: ['/join/java.md','/join/bedrock-ne.md'],
+        children: ['/join/java.md', '/join/bedrock-ne.md'],
       },
-  ],
+    ],
     sidebarDepth: 2, // 侧边栏显示2级
     navbar: [
       // NavbarItem
@@ -116,7 +113,7 @@ export default defineUserConfig({
       imgMark: true,
       // Enable image size
       imgSize: true,
-     // Enable Footnote
+      // Enable Footnote
       footnote: true,
     }),
     docsearchPlugin({
