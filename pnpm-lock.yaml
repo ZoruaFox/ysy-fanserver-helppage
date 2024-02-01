@@ -14,6 +14,9 @@ devDependencies:
   '@vuepress/plugin-back-to-top':
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
+  '@vuepress/plugin-copy-code':
+    specifier: 2.0.0-rc.6
+    version: 2.0.0-rc.6(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-docsearch':
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2)
@@ -1158,6 +1161,22 @@ packages:
       - typescript
     dev: true
 
+  /@vuepress/helper@2.0.0-rc.6(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-Q4NzyrlZ0ZgEboo7HtrQiXBBLf3EEsqqQLeMFzTcTlDujxkh0Erxp+o1LCWr4wFno3sO6W7OCjM2HeUTiZ5NGQ==}
+    engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
+    peerDependencies:
+      vuepress: 2.0.0-rc.2
+    dependencies:
+      '@vue/shared': 3.4.15
+      cheerio: 1.0.0-rc.12
+      fflate: 0.8.1
+      gray-matter: 4.0.3
+      vue: 3.4.15
+      vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
+    transitivePeerDependencies:
+      - typescript
+    dev: true
+
   /@vuepress/markdown@2.0.0-rc.2:
     resolution: {integrity: sha512-5/RmJnap+MGKxDhSO+Mv6zB8PoPHhhBujnNKKO3PnyfPrj0LyL0AuTm8m3Ea271wMp9956WINjw8jlpn+Z1sBg==}
     dependencies:
@@ -1227,6 +1246,20 @@ packages:
       markdown-it: 14.0.0
       markdown-it-container: 4.0.0
       vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
+    dev: true
+
+  /@vuepress/plugin-copy-code@2.0.0-rc.6(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-9/yjNNpD2D+bUTQvhUATK2ngugLgQuUtEXdAFUZtw1HWxozJwxUbMlB8FuLTaJPyln6/tpJmwdpOBsHhkKGz5g==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.2
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.6(vuepress@2.0.0-rc.2)
+      '@vueuse/core': 10.7.2(vue@3.4.15)
+      vue: 3.4.15
+      vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - typescript
     dev: true
 
   /@vuepress/plugin-docsearch@2.0.0-rc.3(@algolia/client-search@4.22.1)(search-insights@2.13.0)(vuepress@2.0.0-rc.2):
