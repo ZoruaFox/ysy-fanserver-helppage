@@ -1,11 +1,12 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+// import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
-import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
+// import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 import { copyCodePlugin } from '@vuepress/plugin-copy-code'
 
+import { hopeTheme } from "vuepress-theme-hope";
 export default defineUserConfig({
   bundler: viteBundler(), // vite
   lang: 'zh-CN', // zh-CN | en-US
@@ -13,7 +14,7 @@ export default defineUserConfig({
   title: '有兽焉粉丝服务器帮助中心', // title
   description: '有兽焉 Minecraft Java 国际版粉丝服务器', // description
   head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
-  theme: defaultTheme({ // @vuepress/theme-default
+  theme: hopeTheme({ // @vuepress/theme-default
     colorMode: 'auto', // auto | light | dark
     colorModeSwitch: true, // true | false
     toggleColorMode: '切换主题',
@@ -101,23 +102,23 @@ export default defineUserConfig({
       // 配置项
       langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell'],
     }),
-    mdEnhancePlugin({
-      tasklist: true,
-      // Enable figure
-      figure: true,
-      // Enable image lazyload
-      imgLazyload: true,
-      // Enable image mark
-      imgMark: true,
-      // Enable image size
-      imgSize: true,
-      // Enable Footnote
-      footnote: true,
-    }),
-    docsearchPlugin({
-      // 配置项
-      placeholder: '搜索',
-    }),
+    // mdEnhancePlugin({
+    //   tasklist: true,
+    //   // Enable figure
+    //   figure: true,
+    //   // Enable image lazyload
+    //   imgLazyload: true,
+    //   // Enable image mark
+    //   imgMark: true,
+    //   // Enable image size
+    //   imgSize: true,
+    //   // Enable Footnote
+    //   footnote: true,
+    // }),
+    // docsearchPlugin({
+    //   // 配置项
+    //   placeholder: '搜索',
+    // }),
     copyCodePlugin(),
   ],
 })
