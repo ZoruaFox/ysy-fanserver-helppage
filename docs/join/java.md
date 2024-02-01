@@ -14,7 +14,7 @@ prev:
 
 - [x] [原版客户端](https://www.minecraft.net/zh-hans/download/alternative)
 - [x] [PCL2 作者：龙腾猫跃](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
-- [x] [HMCL 作者：CatServer](https://github.com/HMCL-dev/HMCL/releases)
+- [x] [HMCL 作者：huanghongxun](https://github.com/HMCL-dev/HMCL/releases)
 - [ ] [（安卓）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
 
 ## 2. 版本选择
