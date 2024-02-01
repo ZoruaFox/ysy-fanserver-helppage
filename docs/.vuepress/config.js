@@ -28,13 +28,11 @@ export default defineUserConfig({
     editLinkPattern: ':repo/edit/:branch/:path',
     lastUpdatedText: '最后更新', // last updated text
     notFound: [
-      '你知道吗，人每呼吸 1 分钟就会呼吸 60 秒',
-      '广告位招租阿巴巴巴',
-      '页面被蓝白京巴吃掉了（',
-      '文档好累不想写',
-      '皮皮好可爱嘿嘿嘿嘿嘿嘿',
+      '某燕子：文档好累不想写',
+      '白给：这个Logo的皮皮好可爱（',
       '兄弟，紫灵不错，摸摸',
-      'A_Luo的下界镐找不到了',
+      '某位的下界合金铲叕找不到了',
+      '豆皮可以吃吗？',
     ],
     backToHome: '返回首页', // back to home page text
     contributors: true, // true | false

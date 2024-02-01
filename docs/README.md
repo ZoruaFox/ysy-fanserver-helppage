@@ -7,7 +7,7 @@ actions:
     link: /info/aboutdoc.md
     type: primary
   - text: 加入服务器
-    link: /info/install.md
+    link: /join/
     type: secondary
 #features:
 #- title: 简洁明了
@@ -20,7 +20,7 @@ actions:
 
 ### 欢迎来到有兽焉粉丝服帮助中心！
 
-本文档在源文档的基础上进行了页面的完全重构，由Docsify改为VuePress，不再使用Github Page，而是使用阿里云OSS进行托管。
+本文档在源文档的基础上进行了页面的完全重构，由 Docsify 改为 VuePress ，不再使用 Github Page，而是使用阿里云 OSS 进行托管。
 
 ::: tip 提示
 点击左侧按钮开始阅读帮助文档，点击右侧按钮按照提示加入服务器。
