@@ -1,5 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
-import { defaultTheme } from '@vuepress/theme-default'
+// import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 // import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
@@ -43,7 +43,7 @@ export default defineUserConfig({
     danger: '警告', // danger text
     openInNewWindow: '在新窗口打开', // open in new window text
     logo: '/images/logo.png', //这个皮皮好可爱（
-    smoothScroll: true,
+    // smoothScroll: true,
 
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
