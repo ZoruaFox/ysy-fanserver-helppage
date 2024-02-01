@@ -7,7 +7,7 @@ actions:
     link: /info/aboutdoc.md
     type: primary
   - text: 加入服务器
-    link: /join/
+    link: /join/java.md
     type: secondary
 #features:
 #- title: 简洁明了
