@@ -34,14 +34,11 @@ jobs:
           node-version: 20
           cache: pnpm
 
-      - name: Install dependencies
-        run: pnpm install
-
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |
-          pnpm vuepress-vite build docs-hope-theme
+          pnpm vuepress-vite build docs
           > docs/.vuepress/dist/.nojekyll
 
 
