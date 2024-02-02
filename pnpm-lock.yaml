@@ -39,8 +39,8 @@ devDependencies:
     specifier: 2.0.0-rc.16
     version: 2.0.0-rc.16(markdown-it@14.0.0)(vuepress@2.0.0-rc.2)
   vuepress-plugin-reading-time2:
-    specifier: 2.0.0-rc.16
-    version: 2.0.0-rc.16(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.18
+    version: 2.0.0-rc.18(vuepress@2.0.0-rc.2)
   vuepress-plugin-search-pro:
     specifier: 2.0.0-rc.18
     version: 2.0.0-rc.18(vuepress@2.0.0-rc.2)
@@ -2810,6 +2810,21 @@ packages:
       vue: 3.4.15
       vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
       vuepress-shared: 2.0.0-rc.16(vuepress@2.0.0-rc.2)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - typescript
+    dev: true
+
+  /vuepress-plugin-reading-time2@2.0.0-rc.18(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-Sj245CYGo0F5Axz6JN6nslcvyZ+1HtfraIPC7MNfPzJgOR/Tc6JKtQcNZhgyCL3aKx1wevs8T7X/nCeTToArsQ==}
+    engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
+    peerDependencies:
+      vuepress: 2.0.0-rc.2
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.6(vuepress@2.0.0-rc.2)
+      vue: 3.4.15
+      vuepress: 2.0.0-rc.2(@vuepress/bundler-vite@2.0.0-rc.2)(vue@3.4.15)
+      vuepress-shared: 2.0.0-rc.18(vuepress@2.0.0-rc.2)
     transitivePeerDependencies:
       - '@vue/composition-api'
       - typescript
