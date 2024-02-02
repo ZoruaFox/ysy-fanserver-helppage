@@ -1,12 +1,9 @@
 import { viteBundler } from '@vuepress/bundler-vite'
-// import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-// import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
-// import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"
 import { copyCodePlugin } from '@vuepress/plugin-copy-code'
-
 import { hopeTheme } from "vuepress-theme-hope";
+
 export default defineUserConfig({
   bundler: viteBundler(), // vite
   lang: 'zh-CN', // zh-CN | en-US
@@ -50,13 +47,13 @@ export default defineUserConfig({
     sidebar: [
       {
         text: '概述',
-        link: '/info/aboutdoc.md',
+        link: '/info',
         collapsible: true,
-        children: ['/info/aboutdoc.md', '/info/basic.md'],
+        children: ['/info', '/info/basic.md'],
       },
       {
         text: '加入服务器',
-        link: '/join/java.md',
+        link: '/join',
         collapsible: true,
         children: ['/join/java.md', '/join/bedrock-ne.md'],
       },

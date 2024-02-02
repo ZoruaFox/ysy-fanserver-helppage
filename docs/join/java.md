@@ -1,4 +1,5 @@
 ---
+title: Java端-快速上手
 prev: 
   text: 服务器信息
   link: /info/basic.md
