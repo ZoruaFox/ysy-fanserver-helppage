@@ -10,12 +10,11 @@ export default defineUserConfig({
   public: 'docs/public', // public dir
   title: '有兽焉粉丝服务器帮助中心', // title
   description: '有兽焉 Minecraft Java 国际版粉丝服务器', // description
-  head: [['link', { rel: 'icon', href: '/images/logo.png' }]],
-  theme: hopeTheme({ // @vuepress/theme-default
-    colorMode: 'auto', // auto | light | dark
-    colorModeSwitch: true, // true | false
-    toggleColorMode: '切换主题',
-    toggleSidebar: '切换侧边栏', // toggle sidebar text
+  theme: hopeTheme({
+    license: 'CC-BY-NC-SA-4.0',
+    favicon: '/images/logo.png',
+    footer: '<a href="https://beian.miit.gov.cn/">晋ICP备2023005192</a>',
+    displayFooter: true,
     home: '/', // home page
     repo: 'ZoruaFox/ysy-fanserver-helppage',
     editLink: true, // true | false
@@ -24,24 +23,12 @@ export default defineUserConfig({
     docsBranch: 'master',
     docsDir: 'docs',
     editLinkPattern: ':repo/edit/:branch/:path',
-    lastUpdatedText: '最后更新', // last updated text
-    notFound: [
-      '某燕子：文档好累不想写',
-      '白给：这个Logo的皮皮好可爱（',
-      '兄弟，紫灵不错，摸摸',
-      '某位的下界合金铲叕找不到了',
-      '豆皮可以吃吗？',
-    ],
     backToHome: '返回首页', // back to home page text
     contributors: true, // true | false
-    contributorsText: '最新贡献者', // contributors text
-    tip: '提示', // tip text
-    warning: '注意', // warning text
-    danger: '警告', // danger text
     openInNewWindow: '在新窗口打开', // open in new window text
     logo: '/images/logo.png', //这个皮皮好可爱（
     // smoothScroll: true,
-
+    hotReload: true,  //DEBUG ONLY!!!!!
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
     sidebar: [
@@ -49,13 +36,18 @@ export default defineUserConfig({
         text: '概述',
         link: '/info',
         collapsible: true,
-        children: ['/info', '/info/basic.md'],
+        prefix: "/info/",
+        children: [
+          '',
+          'basic.md'
+        ],
       },
       {
         text: '加入服务器',
-        link: '/join',
+        link: '/join/java.md',
+        prefix: "/join/",
         collapsible: true,
-        children: ['/join/java.md', '/join/bedrock-ne.md'],
+        children: ['java.md', 'bedrock-ne.md'],
       },
     ],
     sidebarDepth: 2, // 侧边栏显示2级
@@ -92,6 +84,31 @@ export default defineUserConfig({
         ],
       },
     ],
+    plugins: {
+      searchPro: true,
+      // searchPro: {
+      //   插件选项
+      // },
+      mdEnhance: {
+        // 添加选项卡支持
+        tabs: true,
+        codetabs: true,
+        // 启用下角标功能
+        sub: true,
+        // 启用上角标
+        sup: true,
+        tasklist: true,
+        figure: true,
+        // 启用图片懒加载
+        imgLazyload: true,
+        // 启用图片标记
+        imgMark: true,
+        // 启用图片大小
+        imgSize: true,
+        footnote: true,
+      },
+      copyCode: {}, // 复制代码插件
+    },
   }),
 
   plugins: [
@@ -116,6 +133,5 @@ export default defineUserConfig({
     //   // 配置项
     //   placeholder: '搜索',
     // }),
-    copyCodePlugin(),
   ],
 })
