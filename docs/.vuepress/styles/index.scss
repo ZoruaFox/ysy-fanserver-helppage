@@ -1,21 +1,3 @@
-// plugin-docsearch
-.DocSearch {
-    --docsearch-primary-color: var(--c-brand);
-    --docsearch-text-color: var(--c-text);
-    --docsearch-highlight-color: var(--c-brand);
-    --docsearch-muted-color: var(--c-text-quote);
-    --docsearch-container-background: rgba(9, 10, 17, 0.8);
-    --docsearch-modal-background: var(--c-bg-light);
-    --docsearch-searchbox-background: var(--c-bg-lighter);
-    --docsearch-searchbox-focus-background: var(--c-bg);
-    --docsearch-searchbox-shadow: inset 0 0 0 2px var(--c-brand);
-    --docsearch-hit-color: var(--c-text-light);
-    --docsearch-hit-active-color: var(--c-bg);
-    --docsearch-hit-background: var(--c-bg);
-    --docsearch-hit-shadow: 0 1px 3px 0 var(--c-border-dark);
-    --docsearch-footer-background: var(--c-bg);
-  }
-  
   // plugin-external-link-icon
   .external-link-icon {
     --external-link-icon-color: var(--c-text-quote);
@@ -51,4 +33,8 @@
   
     --search-item-text-color: var(--c-text-lighter);
     --search-item-focus-bg-color: var(--c-bg-light);
+  }
+
+  .theme-hope-content pre code {
+    color: #ffffff;
   }

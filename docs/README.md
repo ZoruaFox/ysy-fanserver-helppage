@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: images/background@2x.png
-heroText: 有兽焉 Minecraft 粉丝服帮助中心
+heroText: "有兽焉 Minecraft 粉丝服帮助中心"
 actions:
   - text: 阅读帮助文档
     link: /info/aboutdoc.md
@@ -42,5 +42,3 @@ actions:
         <a href="https://afdian.net/a/ZoruaFox" target="_blank"><img width="75%"
                 src="https://cos.zorua.top/Sponsor/sponsors.svg" alt="赞助名单" /></a>
 </div>
-
-<span class="record">©2024 有兽焉粉丝服务器<br>[晋ICP备2023005192](https://beian.miit.gov.cn/)</span>
