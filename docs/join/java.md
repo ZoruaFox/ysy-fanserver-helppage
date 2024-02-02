@@ -5,7 +5,7 @@ prev:
   link: /info/basic.md
 next:
   text: 基岩版（网易手机版）
-  link: /bedrock-ne.md
+  link: /join/bedrock-ne.md
 ---
 # Java
 ::: tip 总而言之
