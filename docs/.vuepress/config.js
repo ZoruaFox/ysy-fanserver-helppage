@@ -1,7 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
-import { copyCodePlugin } from '@vuepress/plugin-copy-code'
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default defineUserConfig({
@@ -109,6 +108,14 @@ export default defineUserConfig({
       },
       copyCode: {}, // 复制代码插件
     },
+    routeLocales: {
+      notFoundMsg: ['某燕子：文档好累不想写',
+        '白给：这个Logo的皮皮好可爱（',
+        '兄弟，紫灵不错，摸摸',
+        '某位的下界合金铲叕找不到了',
+        '豆皮可以吃吗？']
+    }
+
   }),
 
   plugins: [
@@ -116,22 +123,5 @@ export default defineUserConfig({
       // 配置项
       langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell'],
     }),
-    // mdEnhancePlugin({
-    //   tasklist: true,
-    //   // Enable figure
-    //   figure: true,
-    //   // Enable image lazyload
-    //   imgLazyload: true,
-    //   // Enable image mark
-    //   imgMark: true,
-    //   // Enable image size
-    //   imgSize: true,
-    //   // Enable Footnote
-    //   footnote: true,
-    // }),
-    // docsearchPlugin({
-    //   // 配置项
-    //   placeholder: '搜索',
-    // }),
   ],
 })
