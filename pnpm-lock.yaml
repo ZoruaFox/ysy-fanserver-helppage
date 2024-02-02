@@ -18,8 +18,8 @@ devDependencies:
     specifier: 2.0.0-rc.6
     version: 2.0.0-rc.6(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-medium-zoom':
-    specifier: 2.0.0-rc.3
-    version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.7
+    version: 2.0.0-rc.7(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-nprogress':
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
@@ -1148,8 +1148,8 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-medium-zoom@2.0.0-rc.3(vuepress@2.0.0-rc.2):
-    resolution: {integrity: sha512-qRdUt914tQGfmxcqOwnoC6paZLsAJf2S7kllvf59dDKIDg2JlYsAuOq13wps4/hfuUySe9RDlitl6KcqWfvKfw==}
+  /@vuepress/plugin-medium-zoom@2.0.0-rc.7(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-Pi0wu3ObeID/bH8slH+Ew/1dq1132WXFfbSmHUi4Jrxniyn8MJYdG8hgf/1auIgFyMdtYAkgebQKMIUYxhDcmw==}
     peerDependencies:
       vuepress: 2.0.0-rc.2
     dependencies:
