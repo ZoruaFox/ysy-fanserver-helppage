@@ -32,9 +32,9 @@ export default defineUserConfig({
     // smoothScroll: true,
     hotReload: true,  //DEBUG ONLY!!!!!
 
-    routeLocales: {
-      notFoundMsg: notFoundMsg
-    },
+    // routeLocales: {
+    //   notFoundMsg: notFoundMsg
+    // },
 
     navbar: navbarConfig,
 
