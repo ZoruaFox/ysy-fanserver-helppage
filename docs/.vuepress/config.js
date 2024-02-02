@@ -2,6 +2,9 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { hopeTheme } from "vuepress-theme-hope";
+import { navbarConfig } from './configs/navbar.json'
+import { sidebarConfig } from './configs/sidebar.json'
+import { notFoundMsg } from './configs/notFoundMsg.json'
 
 export default defineUserConfig({
   bundler: viteBundler(), // vite
@@ -28,61 +31,18 @@ export default defineUserConfig({
     logo: '/images/logo.png', //这个皮皮好可爱（
     // smoothScroll: true,
     hotReload: true,  //DEBUG ONLY!!!!!
+
+    routeLocales: {
+      notFoundMsg: notFoundMsg
+    },
+
+    navbar: navbarConfig,
+
     // 侧边栏数组
     // 所有页面会使用相同的侧边栏
-    sidebar: [
-      {
-        text: '概述',
-        link: '/info',
-        collapsible: true,
-        prefix: "/info/",
-        children: [
-          '',
-          'basic.md'
-        ],
-      },
-      {
-        text: '加入服务器',
-        link: '/join/java.md',
-        prefix: "/join/",
-        collapsible: true,
-        children: ['java.md', 'bedrock-ne.md'],
-      },
-    ],
+    sidebar: sidebarConfig,
     sidebarDepth: 2, // 侧边栏显示2级
-    navbar: [
-      // NavbarItem
-      {
-        text: '概述',
-        children: [
-          {
-            text: '文档概述',
-            link: '/info/aboutdoc.md',
-          },
-          {
-            text: '服务器信息',
-            link: '/info/basic.md',
-          },
-        ],
-      },
-      {
-        text: '加入服务器',
-        children: [
-          {
-            text: 'Java版',
-            link: '/join/java.md',
-          },
-          {
-            text: '（尚未支持）基岩版（国际）',
-            link: '。',
-          },
-          {
-            text: '基岩版（网易）',
-            link: '/join/bedrock-ne.md',
-          },
-        ],
-      },
-    ],
+
     plugins: {
       searchPro: true,
       // searchPro: {
@@ -108,14 +68,6 @@ export default defineUserConfig({
       },
       copyCode: {}, // 复制代码插件
     },
-    routeLocales: {
-      notFoundMsg: ['某燕子：文档好累不想写',
-        '白给：这个Logo的皮皮好可爱（',
-        '兄弟，紫灵不错，摸摸',
-        '某位的下界合金铲叕找不到了',
-        '豆皮可以吃吗？']
-    }
-
   }),
 
   plugins: [

@@ -1,0 +1,24 @@
+{
+    "sidebarConfig": [
+        {
+            "text": "概述",
+            "link": "/info",
+            "collapsible": true,
+            "prefix": "/info/",
+            "children": [
+                "",
+                "basic.md"
+            ]
+        },
+        {
+            "text": "加入服务器",
+            "link": "/join/java.md",
+            "prefix": "/join/",
+            "collapsible": true,
+            "children": [
+                "java.md",
+                "bedrock-ne.md"
+            ]
+        }
+    ]
+}

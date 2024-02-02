@@ -14,8 +14,6 @@
 * 服务器版本更新至5.0
 > 引入GeyserMC，支持Bedrock Edition玩家进入服务器，但是由于GeyserMC的限制，部分功能无法使用，如签到或PvP等。
 
-> 关于如何使用基岩版进入服务器，请移步</br> [**如何使用Java、基岩互通互联**](../page/docs/announcement.md)。
-
 ### 2023.2
 
 #### 2023.2.14

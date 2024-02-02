@@ -1,0 +1,34 @@
+{
+    "navbarConfig": [
+        {
+            "text": "概述",
+            "children": [
+                {
+                    "text": "文档概述",
+                    "link": "/info/aboutdoc.md"
+                },
+                {
+                    "text": "服务器信息",
+                    "link": "/info/basic.md"
+                }
+            ]
+        },
+        {
+            "text": "加入服务器",
+            "children": [
+                {
+                    "text": "Java版",
+                    "link": "/join/java.md"
+                },
+                {
+                    "text": "（尚未支持）基岩版（国际）",
+                    "link": "。"
+                },
+                {
+                    "text": "基岩版（网易）",
+                    "link": "/join/bedrock-ne.md"
+                }
+            ]
+        }
+    ]
+}
