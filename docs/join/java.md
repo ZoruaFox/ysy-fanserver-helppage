@@ -3,6 +3,9 @@ title: Java端-快速上手
 prev: 
   text: 服务器信息
   link: /info/basic.md
+next:
+  text: 基岩版（网易手机版）
+  link: /bedrock-ne.md
 ---
 # Java
 ::: tip 总而言之
