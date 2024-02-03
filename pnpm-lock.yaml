@@ -12,8 +12,8 @@ devDependencies:
     specifier: 2.0.0-rc.2
     version: 2.0.0-rc.2
   '@vuepress/plugin-back-to-top':
-    specifier: 2.0.0-rc.3
-    version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.8
+    version: 2.0.0-rc.8(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-copy-code':
     specifier: 2.0.0-rc.6
     version: 2.0.0-rc.6(vuepress@2.0.0-rc.2)
@@ -1079,8 +1079,8 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-back-to-top@2.0.0-rc.3(vuepress@2.0.0-rc.2):
-    resolution: {integrity: sha512-VkzRWMLBHcJ+MVCMl+Yd5Z6Uc1LAaSQkoHrwap1xBU3a3Zjgcqf73+fDTgenTF1usANlztDE9F/Jg8YjREJ6yg==}
+  /@vuepress/plugin-back-to-top@2.0.0-rc.8(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-BbgsnJ7QLS/jeuAHB5LBKJoe0XguqT8gzf3B7vYT9UlRhgwZ53EiSyrWfpbsvCfeuMdvA34v12SyaEgr8RtO7A==}
     peerDependencies:
       vuepress: 2.0.0-rc.2
     dependencies:
