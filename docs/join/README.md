@@ -6,4 +6,4 @@ title: 加入服务器
 
 1. [Java版](java.md)
 
-1. [基岩版（网易手机版](bedrock-ne.md)
+2. [基岩版（网易手机版）](bedrock-ne.md)

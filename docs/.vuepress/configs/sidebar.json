@@ -6,7 +6,7 @@
             "collapsible": true,
             "prefix": "/info/",
             "children": [
-                "",
+                "aboutdoc.md",
                 "basic.md"
             ]
         },
