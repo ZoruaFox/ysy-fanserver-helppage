@@ -17,6 +17,7 @@
             "collapsible": true,
             "children": [
                 "java.md",
+                "bedrock.md",
                 "bedrock-ne.md"
             ]
         }
