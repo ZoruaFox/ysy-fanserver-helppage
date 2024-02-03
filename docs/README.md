@@ -6,7 +6,7 @@ heroImage: images/background@2x.png
 heroText: 有兽焉 Minecraft 粉丝服帮助中心
 actions:
   - text: 阅读帮助文档
-    link: /info
+    link: /info/aboutdoc.md
     type: primary
   - text: 加入服务器
     link: /join/java.md
