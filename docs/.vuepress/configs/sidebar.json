@@ -2,7 +2,7 @@
     "sidebarConfig": [
         {
             "text": "概述",
-            "link": "/info",
+            "link": "/info/aboutdoc.md",
             "collapsible": true,
             "prefix": "/info/",
             "children": [
