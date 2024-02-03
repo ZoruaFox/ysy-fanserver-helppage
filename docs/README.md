@@ -34,13 +34,11 @@ actions:
 
 ### 服务器状态
 
-<a href='https://jiankong.zorua.top/status/ysyprogram'>
 <figure>
 
 ![服务器健康度](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![服务器状态](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)![延迟](https://jiankong.zorua.top/api/badge/10/avg-response/1?style=for-the-badge)
 
 </figure>
-</a>
 
 ### 感谢以下小伙伴的赞助
 <div class="sponsorship" align="center">
