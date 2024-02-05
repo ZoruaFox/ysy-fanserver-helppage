@@ -1,5 +1,4 @@
 ---
-title: Java
 prev: 
   text: 服务器信息
   link: /info/basic.md
@@ -7,7 +6,7 @@ next:
   text: (Alpha)基岩版（国际）
   link: /join/bedrock.md
 ---
-# Java
+# Java端加入
 ::: tip 总而言之
 服务器的地址为：`mc.zorua.top`
 :::
