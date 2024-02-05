@@ -38,16 +38,16 @@
                     "link": "/play/authme.md"
                 },
                 {
+                    "text": "服务器经济体系",
+                    "link": "/play/economy.md"
+                },
+                {
                     "text": "基础指令集",
                     "link": "/play/playercommands.md"
                 },
                 {
                     "text": "领地",
                     "link": "/play/residence.md"
-                },
-                {
-                    "text": "服务器经济体系",
-                    "link": "/play/economy.md"
                 }
             ]
         }
