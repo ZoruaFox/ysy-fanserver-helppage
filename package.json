@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.2",
     "@vuepress/client": "2.0.0-rc.2",
-    "@vuepress/plugin-back-to-top": "2.0.0-rc.3",
+    "@vuepress/plugin-back-to-top": "2.0.0-rc.11",
     "@vuepress/plugin-copy-code": "2.0.0-rc.6",
     "@vuepress/plugin-medium-zoom": "2.0.0-rc.3",
     "@vuepress/plugin-nprogress": "2.0.0-rc.3",
