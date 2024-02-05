@@ -1,5 +1,6 @@
 ---
 title: Java
+icon: java
 prev: 
   text: 服务器信息
   link: /info/basic.md
