@@ -31,6 +31,7 @@ export default defineUserConfig({
     logo: '/images/logo.png', //这个皮皮好可爱（
     // smoothScroll: true,
     hotReload: true,  //DEBUG ONLY!!!!!
+    iconAssets: "iconfont",
 
     routeLocales: {
       notFoundMsg: notFoundMsg
