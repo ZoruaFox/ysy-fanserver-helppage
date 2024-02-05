@@ -44,6 +44,10 @@
                 {
                     "text": "领地",
                     "link": "/play/residence.md"
+                },
+                {
+                    "text": "服务器经济体系",
+                    "link": "/play/economy.md"
                 }
             ]
         }

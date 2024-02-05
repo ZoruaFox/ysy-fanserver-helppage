@@ -28,6 +28,7 @@
             "collapsible": true,
             "children": [
                 "authme.md",
+                "economy.md",
                 "playercommands.md",
                 "residence.md"
             ]

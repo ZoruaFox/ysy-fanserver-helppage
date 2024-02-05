@@ -3,4 +3,8 @@ title: 玩法帮助
 ---
 1. [注册与登录](authme.md)
 
-2. [基础指令集](playercommands.md)
+2. [服务器经济体系](economy.md)
+
+3. [基础指令集](playercommands.md)
+
+4. [领地系统](residence.md)
