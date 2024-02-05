@@ -1,3 +1,12 @@
+---
+prev:
+    text: 注册与登录
+    link: /play/authme.md
+next:
+    text: 领地
+    link: /play/residence.md
+---
+
 # 基础指令集
 作为生<del>电</del>存服，服务器的基础指令将会对你的生存与探索起到一定的帮助，</br>
 

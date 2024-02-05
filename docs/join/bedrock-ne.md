@@ -1,3 +1,8 @@
+---
+next:
+  text: 注册与登录
+  link: /play/authme.md
+---
 # 网易基岩版（豆皮运营）
 
 ::: tip 提示
