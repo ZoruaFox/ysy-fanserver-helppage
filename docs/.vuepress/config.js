@@ -66,15 +66,8 @@ export default defineUserConfig({
         imgSize: true,
         footnote: true,
         demo: true,
-        comment: {
-          provider: "Giscus",
-          repo: "ZoruaFox/ysy-fanserver-helppage",
-          repoId: "R_kgDOLLd1Ew",
-          category: "Announcements",
-          categoryId: "DIC_kwDOLLd1E84Cc8t9",
       },
       copyCode: {}, // 复制代码插件
-      },
     },
   }),
 
