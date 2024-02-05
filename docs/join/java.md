@@ -1,6 +1,5 @@
 ---
 title: Java端加入
-icon: java
 prev: 
   text: 服务器信息
   link: /info/basic.md
