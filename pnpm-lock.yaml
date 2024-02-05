@@ -21,8 +21,8 @@ devDependencies:
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-nprogress':
-    specifier: 2.0.0-rc.3
-    version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
+    specifier: 2.0.0-rc.11
+    version: 2.0.0-rc.11(vuepress@2.0.0-rc.2)
   '@vuepress/plugin-shiki':
     specifier: 2.0.0-rc.3
     version: 2.0.0-rc.3(vuepress@2.0.0-rc.2)
@@ -1172,10 +1172,10 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-nprogress@2.0.0-rc.3(vuepress@2.0.0-rc.2):
-    resolution: {integrity: sha512-UkbMLvkRps56KF2fsIXtJ0ylRacuPRW9qA1PYwq7XkDqNr4FE5aZsnRHuYIMPUxuhU5t3hRx/zeKOwbctzd2Yw==}
+  /@vuepress/plugin-nprogress@2.0.0-rc.11(vuepress@2.0.0-rc.2):
+    resolution: {integrity: sha512-lDc/vsUc6zAEmWofH4KbYR70ozYlqyNK16sb1z7bvv43KMW1teDk4UjSKAa+iWW0afErlkoiT4skebkPx99qaA==}
     peerDependencies:
-      vuepress: 2.0.0-rc.2
+      vuepress: 2.0.0-rc.6
     dependencies:
       vue: 3.4.15
       vue-router: 4.2.5(vue@3.4.15)
