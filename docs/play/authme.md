@@ -160,6 +160,6 @@
 | `/logout`   | ------                               | 登出游戏，不会自动退出       |
 | `/captcha`  | `/captcha 验证码`                     | 敏感操作按提示操作输入验证码 |
 | `/email`    | `/email add/code/...`                | 邮箱相关功能                |
-| `/2fa`      | `/2fa ...                            | 2FA相关功能                |
+| `/2fa`      | `/2fa ...`                            | 2FA相关功能                |
 | `/changepassword` | `/changepassword 旧密码 新密码` | 修改密码                   |
 | ... | ... | ... |

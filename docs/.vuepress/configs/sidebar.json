@@ -28,7 +28,8 @@
             "collapsible": true,
             "children": [
                 "authme.md",
-                "other.md"
+                "playercommands.md",
+                "residence.md"
             ]
         }
     ]
