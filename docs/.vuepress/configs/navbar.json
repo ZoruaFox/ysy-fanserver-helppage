@@ -29,6 +29,15 @@
                     "link": "/join/bedrock-ne.md"
                 }
             ]
+        },
+        {
+            "text": "玩法说明",
+            "children": [
+                {
+                    "text": "注册与登录",
+                    "link": "/play/authme.md"
+                }
+            ]
         }
     ]
 }

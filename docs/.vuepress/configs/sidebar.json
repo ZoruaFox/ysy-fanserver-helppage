@@ -20,6 +20,16 @@
                 "bedrock.md",
                 "bedrock-ne.md"
             ]
+        },
+        {
+            "text": "玩法帮助",
+            "link": "/play/authme.md",
+            "prefix": "/play/",
+            "collapsible": true,
+            "children": [
+                "authme.md",
+                "other.md"
+            ]
         }
     ]
 }
