@@ -2,7 +2,7 @@
 home: true
 title: 主页
 icon: home
-heroImage: images/background@2x.png
+heroImage: images/预合照.png
 heroText: 有兽焉 Minecraft 粉丝服帮助中心
 actions:
   - text: 阅读帮助文档

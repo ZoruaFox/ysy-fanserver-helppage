@@ -54,6 +54,19 @@
                     "link": "/play/qq.md"
                 }
             ]
+        },
+        {
+            "text": "实用链接",
+            "children": [
+                {
+                    "text": "服务器翻译项目",
+                    "link": "https://translate.mc.zorua.top"
+                },
+                {
+                    "text": "封禁记录",
+                    "link": "https://ban.mc.zorua.top"
+                }
+            ]
         }
     ]
 }
