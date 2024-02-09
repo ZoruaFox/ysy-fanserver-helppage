@@ -3,8 +3,8 @@ prev:
   text: 网易基岩版（豆皮运营）
   link: /join/bedrock-ne.md
 next:
-    text: 基础指令集
-    link: /play/playercommands.md
+    text: 服务器经济体系
+    link: /play/economy.md
 ---
 # 注册与登录
 ## 注册

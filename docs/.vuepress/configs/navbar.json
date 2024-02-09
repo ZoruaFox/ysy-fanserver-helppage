@@ -48,6 +48,18 @@
                 {
                     "text": "领地",
                     "link": "/play/residence.md"
+                },
+                {
+                    "text": "QQ消息互通",
+                    "link": "/play/qq.md"
+                },
+                {
+                    "text": "服务器地图",
+                    "link": "/play/map.md"
+                },
+                {
+                    "text": "服务器商店",
+                    "link": "/play/shop.md"
                 }
             ]
         }

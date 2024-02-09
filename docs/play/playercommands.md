@@ -1,7 +1,4 @@
 ---
-prev:
-    text: 注册与登录
-    link: /play/authme.md
 next:
     text: 领地
     link: /play/residence.md
