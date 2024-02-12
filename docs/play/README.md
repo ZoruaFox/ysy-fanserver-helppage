@@ -8,3 +8,7 @@ title: 玩法帮助
 3. [基础指令集](playercommands.md)
 
 4. [领地系统](residence.md)
+
+5. [QQ群—服务器消息互通](qq.md)
+
+6. [皮肤设置](skin.md)
