@@ -28,20 +28,20 @@ prev:
 推荐使用类似[路过图床](https://imgse.com/)等图床上传皮肤图片，以下以路过图床为例说明操作步骤。
 1. 打开[路过图床](https://imgse.com/)网站，点击“上传图片”按钮，依据提示登录/注册账号。
 
-![网站主页](/images/website.png =x350)
+![网站主页](/images/website.png)
 
 2. 登录/注册成功后，点击“开始上传”按钮，选择本地的皮肤图片，点击“上传”按钮。
 
-![上传皮肤确认](/images/uploadskin.png =x350)
+![上传皮肤确认](/images/uploadskin.png)
 
 3. 上传成功后，注意页面下方的“图片URL地址”，复制该地址。
 
-![复制图片地址](/images/copyurl.png =x350)
+![复制图片地址](/images/copyurl.png)
 
 4. 进入游戏内，输入`/skin set <图片URL地址>`即可设置皮肤。
 
-![设置皮肤](/images/setskin.png =x75)
+![设置皮肤](/images/setskin.png)
 
 5. 等待片刻，当看到聊天框提示<code> <font color="#FFFF55">[</font><font color="#00AA00">SkinsRestorer</font><font color="#FFFF55">]</font> <font color="#FFFF55"><b>你的皮肤已改变</b></font></code>时，即表示皮肤设置成功。
 
-![设置成功](/images/skin-done.png =x350)
+![设置成功](/images/skin-done.png)
