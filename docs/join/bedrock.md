@@ -5,6 +5,8 @@
 基岩版互通仅提供基础支持，仍推荐使用Java版客户端进入服务器。<br>
 **基岩版国际与基岩版中国版（网易）不兼容**，无法使用中国版客户端进入国际版服务器。
 :::
+
+![](https://jiankong.zorua.top/api/badge/21/uptime?labelPrefix=%E5%9F%BA%E5%B2%A9%E7%89%88%E4%BA%92%E9%80%9A&labelSuffix=%E5%B0%8F%E6%97%B6&style=for-the-badge)
 ## 1. 选择客户端
 基岩版（国际）客户端下载请前往[官方网站](https://www.minecraft.net/zh-hans/download)下载。其他下载途径请自行搜索。
 
