@@ -67,6 +67,7 @@ export default defineUserConfig({
         imgSize: true,
         footnote: true,
         demo: true,
+        alert: true,
       },
       copyCode: {}, // 复制代码插件
     },
