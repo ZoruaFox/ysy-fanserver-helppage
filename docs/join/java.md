@@ -20,9 +20,9 @@ next:
 - [ ] [（安卓）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
 
 ## 2. 版本选择
-请选择1.20.2版本，如果你的客户端没有1.20.2版本请在启动器中添加，原版、Forge、Fabric均可。各个启动器的使用方法不再赘述。
+请选择1.20.6版本，如果你的客户端没有1.20.6版本请在启动器中添加，原版、Forge、Fabric均可。各个启动器的使用方法不再赘述。
 ::: tip
-Minecraft 1.20.2需要使用Java 17运行，如果你的电脑上没有安装Java 17，请前往[Java官网](https://www.oracle.com/cn/java/technologies/downloads/#java17)下载安装。
+Minecraft 1.20.6需要使用Java 21运行，如果你的电脑上没有安装Java 21，请前往[Java官网](https://www.oracle.com/cn/java/technologies/downloads/#java21)下载安装。
 :::
 ::: danger
 严禁使用破坏游戏平衡的客户端，**因任何作弊造成的封禁不会有任何通知，且为无限期封禁**。
