@@ -11,7 +11,7 @@ on:
 #  contents: write
 
 jobs:
-  deploy-gh-pages:
+  deploy-to-oss:
     runs-on: ubuntu-latest
     steps:
       - name: 签出仓库
