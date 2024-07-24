@@ -42,6 +42,6 @@ actions:
 
 ### 感谢以下小伙伴的赞助
 <div class="sponsorship" align="center">
-        <a href="https://afdian.net/a/ZoruaFox" target="_blank"><img width="75%"
+        <a href="https://afdian.com/a/ZoruaFox" target="_blank"><img width="75%"
                 src="https://cos.zorua.top/Sponsor/sponsors.svg" alt="赞助名单" /></a>
 </div>

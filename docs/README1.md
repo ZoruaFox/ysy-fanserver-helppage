@@ -4,8 +4,8 @@ home: true
 icon: home
 title: 首页
 heroImage: images/预合照.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: ./images/主城白天.png
+bgImageDark: ./images/主城黑夜.png
 bgImageStyle:
   background-attachment: fixed
 heroText: 有兽焉 Minecraft 粉丝服帮助中心

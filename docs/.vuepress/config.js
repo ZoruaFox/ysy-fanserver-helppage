@@ -31,7 +31,7 @@ export default defineUserConfig({
     logo: '/images/logo.png', //这个皮皮好可爱（
     // smoothScroll: true,
     hotReload: true,  //DEBUG ONLY!!!!!
-    iconAssets: "iconfont",
+    iconAssets: "iconify",
 
     routeLocales: {
       notFoundMsg: notFoundMsg
@@ -69,14 +69,11 @@ export default defineUserConfig({
         demo: true,
         alert: true,
       },
-      copyCode: {}, // 复制代码插件
+      copyCode: {},
+      shikiPlugin: {
+        // 配置项
+        langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
+      }, // 复制代码插件
     },
   }),
-
-  plugins: [
-    shikiPlugin({
-      // 配置项
-      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell'],
-    }),
-  ],
 })
