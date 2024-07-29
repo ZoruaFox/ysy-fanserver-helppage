@@ -45,7 +45,7 @@ prev:
 5. 等待片刻，当看到聊天框提示<code> <font color="#FFFF55">[</font><font color="#00AA00">SkinsRestorer</font><font color="#FFFF55">]</font> <font color="#FFFF55"><b>你的皮肤已改变</b></font></code>时，即表示皮肤设置成功。
 
 ![设置成功](/images/skin-done.png)
-<!-- 
+
 ### 3.使用皮肤站设置皮肤
 ::: tip 提示
 皮肤站仍处于测试阶段，将于三周目正式启用。如需提前使用，请联系服主。
@@ -69,4 +69,4 @@ prev:
 
 5.进入游戏，游戏将自动同步皮肤站上传的皮肤。
 
-![皮肤站进入游戏自动同步皮肤](/images/皮肤站进入游戏自动同步皮肤.png) -->
+![皮肤站进入游戏自动同步皮肤](/images/皮肤站进入游戏自动同步皮肤.png)
