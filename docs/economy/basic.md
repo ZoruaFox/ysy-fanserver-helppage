@@ -3,12 +3,12 @@ prev:
   text: 注册与登录
   link: /authme.md
 next:
-    text: 基础指令集
-    link: /play/playercommands.md
+    text: 市场交易
+    link: /economy/market.md
 ---
 
-
 # 基本经济
+
 :::warning 公益服务器声明
 服务器没有人民币充值系统，除赞助头衔外，所有物品均可在游戏内或通过其他活动获得。
 :::

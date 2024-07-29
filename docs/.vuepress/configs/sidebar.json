@@ -39,12 +39,11 @@
         },
         {
             "text": "其他",
-            "link": "/economy/basic.md",
-            "prefix": "/economy/",
+            "link": "/play/playercommands.md",
+            "prefix": "/play/",
             "collapsible": true,
             "children": [
-                "economy.md",
-                "playercommands.md",
+                "playercommands.dm",
                 "residence.md",
                 "qq.md",
                 "skin.md"
