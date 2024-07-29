@@ -1,6 +1,6 @@
 ---
 prev:
-    text: QQ群—服务器消息互通
+    text: QQ群互通
     link: /play/qq.md
 #next:
 #    text: 领地
