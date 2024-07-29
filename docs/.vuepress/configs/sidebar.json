@@ -33,7 +33,8 @@
             "collapsible": true,
             "children": [
                 "basic.md",
-                "market.md"
+                "market.md",
+                "points.md"
             ]
         },
         {
