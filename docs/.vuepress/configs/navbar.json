@@ -31,15 +31,15 @@
             ]
         },
         {
-            "text": "玩法说明",
+            "text": "服务器玩法",
             "children": [
                 {
                     "text": "注册与登录",
-                    "link": "/play/authme.md"
+                    "link": "/authme.md"
                 },
                 {
-                    "text": "服务器经济体系",
-                    "link": "/play/economy.md"
+                    "text": "经济体系",
+                    "link": "/economy/basic.md"
                 },
                 {
                     "text": "基础指令集",

@@ -22,12 +22,27 @@
             ]
         },
         {
-            "text": "玩法帮助",
-            "link": "/play/authme.md",
-            "prefix": "/play/",
+            "text": "注册与登录",
+            "link": "/authme.md",
+            "collapsible": true
+        },
+        {
+            "text": "经济体系",
+            "link": "/economy/basic.md",
+            "prefix": "/economy/",
             "collapsible": true,
             "children": [
-                "authme.md",
+                "basic.md",
+                "market.md",
+                "points.md"
+            ]
+        },
+        {
+            "text": "其他",
+            "link": "/economy/basic.md",
+            "prefix": "/economy/",
+            "collapsible": true,
+            "children": [
                 "economy.md",
                 "playercommands.md",
                 "residence.md",
