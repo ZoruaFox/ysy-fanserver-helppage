@@ -43,7 +43,7 @@
             "prefix": "/play/",
             "collapsible": true,
             "children": [
-                "playercommands.dm",
+                "playercommands.md",
                 "residence.md",
                 "qq.md",
                 "skin.md"
