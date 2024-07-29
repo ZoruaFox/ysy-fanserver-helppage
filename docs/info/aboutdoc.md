@@ -1,6 +1,4 @@
----
-title: 文档概述
----
+
 # 帮助文档概述
 
 如你所见，这是一个关于Minecraft有兽焉粉丝服务器的wiki页面，你可以把它理解为一个 **帮助文档** 。
@@ -11,7 +9,9 @@ title: 文档概述
 ::: tip 提示
 点击侧边栏想了解的主题，看看已经编写好的内容。
 :::
+
 ## 赞助
+
 <div class="sponsorship">
     <div class="frame">
         <iframe src="https://afdian.com/leaflet?slug=zoruafox" width="100%" scrolling="no" height="200" frameborder="0"
