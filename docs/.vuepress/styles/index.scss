@@ -38,3 +38,7 @@
   .theme-hope-content pre code {
     color: #ffffff;
   }
+
+  .external-link-icon .theme-hope-content a[href*="://"]:not(.no-external-link-icon)::after, .external-link-icon .theme-hope-content a[target=_blank]:not(.no-external-link-icon)::after{
+    background: var(--external-link-icon);
+  }
