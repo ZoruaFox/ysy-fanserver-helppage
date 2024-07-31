@@ -27,6 +27,16 @@
             "collapsible": true
         },
         {
+            "text": "皮肤",
+            "link": "/play/skin.md",
+            "collapsible": true
+        },
+        {
+            "text": "基础指令",
+            "link": "/play/playercommands.md",
+            "collapsible": true
+        },
+        {
             "text": "经济体系",
             "link": "/economy/basic.md",
             "prefix": "/economy/",
@@ -43,10 +53,8 @@
             "prefix": "/play/",
             "collapsible": true,
             "children": [
-                "playercommands.md",
                 "residence.md",
-                "qq.md",
-                "skin.md"
+                "qq.md"
             ]
         }
     ]
