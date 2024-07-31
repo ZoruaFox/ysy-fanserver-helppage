@@ -1,6 +1,5 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
-import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { hopeTheme } from "vuepress-theme-hope";
 import { navbarConfig } from './configs/navbar.json'
 import { sidebarConfig } from './configs/sidebar.json'
