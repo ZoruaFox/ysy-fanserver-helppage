@@ -38,24 +38,24 @@
                     "link": "/authme.md"
                 },
                 {
-                    "text": "经济体系",
-                    "link": "/economy/basic.md"
+                    "text": "皮肤设置",
+                    "link": "/skin.md"
                 },
                 {
                     "text": "基础指令集",
                     "link": "/play/playercommands.md"
                 },
                 {
+                    "text": "经济体系",
+                    "link": "/economy/basic.md"
+                },
+                {
                     "text": "领地",
-                    "link": "/play/residence.md"
+                    "link": "/other/residence.md"
                 },
                 {
                     "text": "QQ群互通",
-                    "link": "/play/qq.md"
-                },
-                {
-                    "text": "皮肤设置",
-                    "link": "/play/skin.md"
+                    "link": "/other/qq.md"
                 }
             ]
         },

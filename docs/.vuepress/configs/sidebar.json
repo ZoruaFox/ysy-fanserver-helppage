@@ -28,7 +28,7 @@
         },
         {
             "text": "皮肤",
-            "link": "/play/skin.md",
+            "link": "/skin.md",
             "collapsible": true
         },
         {
@@ -49,8 +49,8 @@
         },
         {
             "text": "其他",
-            "link": "/play/playercommands.md",
-            "prefix": "/play/",
+            "link": "/other/qq.md",
+            "prefix": "/other/",
             "collapsible": true,
             "children": [
                 "residence.md",
