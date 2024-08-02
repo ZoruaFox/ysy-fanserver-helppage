@@ -47,13 +47,12 @@
                 "coins.md",
                 "points.md",
                 "market.md"
-
             ]
         },
         {
             "text": "服务器机制介绍",
-            "link": "/mechanics/season.md",
-            "prefix": "/mechanics/",
+            "link": "/feature/season.md",
+            "prefix": "/feature/",
             "collapsible": true,
             "children": [
                 "season.md",
@@ -61,8 +60,7 @@
                 "pvp.md",
                 "bedwars.md",
                 "time.md",
-                "coi.md"
-
+                "co.md"
             ]
         },
         {
