@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.14",
     "@vuepress/plugin-back-to-top": "2.0.0-rc.39",
-    "@vuepress/plugin-copy-code": "2.0.0-rc.39",
+    "@vuepress/plugin-copy-code": "2.0.0-rc.40",
     "@vuepress/plugin-medium-zoom": "2.0.0-rc.39",
     "@vuepress/plugin-nprogress": "2.0.0-rc.39",
     "@vuepress/plugin-reading-time": "2.0.0-rc.40",
