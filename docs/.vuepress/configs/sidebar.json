@@ -51,6 +51,21 @@
             ]
         },
         {
+            "text": "服务器机制介绍",
+            "link": "/mechanics/season.md",
+            "prefix": "/mechanics/",
+            "collapsible": true,
+            "children": [
+                "season.md",
+                "residence.md",
+                "pvp.md",
+                "bedwars.md",
+                "time.md",
+                "coi.md"
+
+            ]
+        },
+        {
             "text": "其他",
             "link": "/other/qq.md",
             "prefix": "/other/",
