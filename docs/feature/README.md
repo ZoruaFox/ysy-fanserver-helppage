@@ -2,7 +2,7 @@
 title: 服务器机制介绍
 ---
 
-1. [季节](season.md)
+1. [真实季节与时间](season.md)
 
 2. [领地](residence.md)
 
@@ -10,6 +10,4 @@ title: 服务器机制介绍
 
 4. [起床战争](bedwars.md)
 
-5. [时间](time.md)
-
-6. [方块互动查询](coi.md)
+5. [方块互动查询](coi.md)
