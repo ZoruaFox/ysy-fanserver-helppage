@@ -1,8 +1,3 @@
----
-next: 
-  text: 加入服务器
-  link: /join/java.md
----
 
 # 服务器基本信息
 

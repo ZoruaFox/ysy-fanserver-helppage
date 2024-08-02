@@ -69,6 +69,10 @@ export default defineUserConfig({
         alert: true,
       },
       copyCode: {},
+      comment: {
+        provider: "Waline",
+        serverURL: "comment.help.mc.zorua.top", // your server url
+      },
       shikiPlugin: {
         // 配置项
         langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
