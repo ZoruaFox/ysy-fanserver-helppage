@@ -71,7 +71,6 @@
             "prefix": "/other/",
             "collapsible": true,
             "children": [
-                "residence.md",
                 "qq.md"
             ]
         }
