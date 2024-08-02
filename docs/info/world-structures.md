@@ -4,4 +4,6 @@ next:
   link: /join/java.md
 ---
 
+# 世界结构
+
 TODO

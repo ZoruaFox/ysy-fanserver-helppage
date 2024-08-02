@@ -7,7 +7,8 @@
             "prefix": "/info/",
             "children": [
                 "aboutdoc.md",
-                "basic.md"
+                "basic.md",
+                "world-structures.md"
             ]
         },
         {
@@ -32,8 +33,8 @@
             "collapsible": true
         },
         {
-            "text": "基础指令",
-            "link": "/play/playercommands.md",
+            "text": "基础指令集",
+            "link": "/playercommands.md",
             "collapsible": true
         },
         {
@@ -43,8 +44,10 @@
             "collapsible": true,
             "children": [
                 "basic.md",
-                "market.md",
-                "points.md"
+                "coins.md",
+                "points.md",
+                "market.md"
+
             ]
         },
         {

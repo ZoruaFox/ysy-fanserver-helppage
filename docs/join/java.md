@@ -25,7 +25,7 @@ next:
 Minecraft 1.20.6需要使用Java 21运行，如果你的电脑上没有安装Java 21，请前往[Java官网](https://www.oracle.com/cn/java/technologies/downloads/#java21)下载安装。
 :::
 ::: danger
-严禁使用破坏游戏平衡的客户端，**因任何作弊造成的封禁不会有任何通知，且为无限期封禁**。
+严禁使用破坏游戏平衡的客户端，**因任何作弊造成的封禁不会有任何通知**。
 :::
 
 ## 3. 添加白名单

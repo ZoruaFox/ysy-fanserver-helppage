@@ -1,10 +1,5 @@
 ---
-prev:
-  text: 注册与登录
-  link: /authme.md
-next:
-    text: 市场交易
-    link: /economy/market.md
+
 ---
 
 # 基本经济
