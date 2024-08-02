@@ -32,9 +32,6 @@ importers:
       '@vuepress/theme-default':
         specifier: 2.0.0-rc.39
         version: 2.0.0-rc.39(vuepress@2.0.0-rc.14(@vuepress/bundler-vite@2.0.0-rc.14(@types/node@20.14.12)(sass@1.77.8)(yaml@2.5.0))(vue@3.4.33))
-      '@waline/client':
-        specifier: ^3.3.0
-        version: 3.3.0
       vue:
         specifier: ^3.4.33
         version: 3.4.33
@@ -2769,6 +2766,7 @@ snapshots:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
+    optional: true
 
   '@vueuse/metadata@10.11.0': {}
 
@@ -2785,8 +2783,10 @@ snapshots:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - vue
+    optional: true
 
-  '@waline/api@1.0.0-alpha.8': {}
+  '@waline/api@1.0.0-alpha.8':
+    optional: true
 
   '@waline/client@3.3.0':
     dependencies:
@@ -2800,6 +2800,7 @@ snapshots:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - typescript
+    optional: true
 
   ansi-regex@5.0.1: {}
 
@@ -2832,7 +2833,8 @@ snapshots:
       postcss: 8.4.39
       postcss-value-parser: 4.2.0
 
-  autosize@6.0.1: {}
+  autosize@6.0.1:
+    optional: true
 
   balloon-css@1.2.0: {}
 
@@ -3212,8 +3214,10 @@ snapshots:
   marked-highlight@2.1.3(marked@12.0.2):
     dependencies:
       marked: 12.0.2
+    optional: true
 
-  marked@12.0.2: {}
+  marked@12.0.2:
+    optional: true
 
   mdurl@2.0.0: {}
 
@@ -3337,7 +3341,8 @@ snapshots:
     dependencies:
       picomatch: 2.3.1
 
-  recaptcha-v3@1.10.0: {}
+  recaptcha-v3@1.10.0:
+    optional: true
 
   require-directory@2.1.1: {}
 
@@ -3488,6 +3493,7 @@ snapshots:
   vue-demi@0.14.9(vue@3.4.34):
     dependencies:
       vue: 3.4.34
+    optional: true
 
   vue-router@4.4.0(vue@3.4.33):
     dependencies:
