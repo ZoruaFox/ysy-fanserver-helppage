@@ -11,6 +11,7 @@ export default defineUserConfig({
   public: 'docs/public', // public dir
   title: '有兽焉粉丝服务器帮助中心', // title
   description: '有兽焉 Minecraft Java 国际版粉丝服务器', // description
+  shouldPrefetch: false,
   theme: hopeTheme({
     license: 'CC-BY-NC-SA-4.0',
     favicon: '/images/logo.png',
@@ -73,6 +74,28 @@ export default defineUserConfig({
         // 配置项
         langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
       }, // 复制代码插件
+      pwa: {
+        showInstall: true,
+        favicon: '/images/favicon/favicon.ico',
+        manifest: {
+          icons: [
+            {
+              "sizes": "192x192",
+              "src": "/images/favicon/android-chrome-192x192.png",
+              "type": "image/png"
+            },
+            {
+              "sizes": "512x512",
+              "src": "/images/favicon/android-chrome-512x512.png",
+              "type": "image/png"
+            }
+          ]
+        },
+        apple: {
+          icon: '/images/favicon/apple-touch-icon.png',
+          statusBarColor: '#46bd87',
+        }
+      }
     },
   }),
 })
