@@ -59,16 +59,8 @@
                 "residence.md",
                 "pvp.md",
                 "bedwars.md",
+                "qq.md",
                 "co.md"
-            ]
-        },
-        {
-            "text": "其他",
-            "link": "/other/qq.md",
-            "prefix": "/other/",
-            "collapsible": true,
-            "children": [
-                "qq.md"
             ]
         }
     ]
