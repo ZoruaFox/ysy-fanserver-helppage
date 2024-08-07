@@ -33,7 +33,144 @@ next:
 <code><font color="#555555">[</font><font color="#FFAA00">玩家系统</font><font color="#555555">]</font> <font color="#FF5555">请输入“/email add <你的邮箱> <再输入一次以确认>”以添加您的邮箱到此帐号</font></code>
 
 根据提示设置邮箱即可。`<>`为自行设置的邮箱，但不要输入`<>`符号。
+
+## 更改密码
+
+使用命令：`/changepass <旧密码> <新密码>`，游戏将会提示敏感操作需按邮件提示操作。
+
+邮件示例见下：
+::: details 点击查看邮件示例
+
+::: normal-demo
+
+```html
+<div class="mail">
+    <style>
+        .mail td{
+            font-family: "Segoe UI", sans-serif;
+            text-align: center;
+            font-size: 16px;
+            color: #718096;
+        }
+        .mail th, div, p, a, h1, h2, h3, h4, h5, h6{
+            font-family: "Segoe UI", sans-serif;
+            text-align: center;
+            color: #3d4852;
+        }
+        .mail .mail-content {
+            max-width: 100vw;
+            padding: 32px;
+            box-shadow: 0 15px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.25);
+        }
+        .mail div{
+            background-color: #ffffff;color: #718096;height: 100%;line-height: 1.4;width: 100%;
+        }
+        .mail .x_wrapper{
+            background-color: #edf2f7; 
+            width:100%;
+        }
+        .mail .x_content{
+            width: 100%;
+        }
+        .mail .x_inner-body{
+            background-color: #ffffff;border-color: #e8e5ef;border-radius: 2px;border-width: 1px;margin: 0 auto;padding:0;width: 570px;
+        }
+        .mail .x_content-cell{
+            margin: 0 auto;padding: 0;width: 570px;line-height: 1.5em;
+            color: #b0adc5;font-size: 12px;
+        }
+        .mail .x_content-cell td{
+            max-width: 100vw;padding: 32px;
+        }
+    </style>
+    <div>
+        <table class="x_wrapper">
+            <tbody>
+            <tr>
+                <td>
+                    <table class="x_content">
+                        <tbody>
+                        <tr>
+                            <td style="padding: 25px 0;">
+                                <h1 style="font-size: 20px;">代码验证邮件</h1>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="x_inner-body">
+                                    <tbody>
+                                    <tr>
+                                        <td class="mail-content">
+                                            <h1 style="font-size: 18px;margin-bottom: 25px;">Minecraft · <servername /><br/><playername /></h1>
+                                            <hr>
+                                            <table style="width: 100%;">
+                                                <tbody>
+                                                <tr>
+                                                    <td>
+                                                        您正在申请的验证码为
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="font-weight: bold;">
+                                                        <br/>114514</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <br/>使用指令: /verification 114514 来完成验证过程.
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="text-align:right;">
+                                                        <br/>
+                                                        <br/>验证码将在30分钟后失效
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <small>
+                                                            <br/><time />
+                                                            <br/>请勿回复
+                                                        </small>
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table class="x_content-cell">
+                                    <tbody>
+                                    <tr>
+                                        <td>
+                                            <p style="color:#b0adc5;">© 2024 有兽焉粉丝服务器. All rights reserved.</p>
+                                            <a href="mc.zorua.top" target="_blank"
+                                               style="text-decoration: none; font-size: 16px">Made with ❤ by 海屿有燕</a>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+```
+
+:::
+在游戏中输入`/verification 114514`即可完成验证过程，完成验证后，再次输入`/changepass <旧密码> <新密码>`即可完成密码修改。
+
 ## 忘记密码
+
 若忘记密码，可以通过设置的密保邮箱找回密码。
 
 使用命令：`/email recovery <你的邮箱>`，将会发送一封邮件到你的邮箱，按照邮件提示操作即可找回密码。
