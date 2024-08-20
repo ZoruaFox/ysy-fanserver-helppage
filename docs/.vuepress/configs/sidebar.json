@@ -13,7 +13,7 @@
         },
         {
             "text": "加入服务器",
-            "link": "/join/java.md",
+            "link": "/join/README.md",
             "prefix": "/join/",
             "collapsible": true,
             "children": [
@@ -62,6 +62,10 @@
                 "title.md",
                 "qq.md"
             ]
+        },
+        {
+            "text":"FAQ",
+            "link":"faq.md"
         }
     ]
 }
