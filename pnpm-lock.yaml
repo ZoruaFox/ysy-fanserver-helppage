@@ -21,8 +21,8 @@ importers:
         specifier: 2.0.0-rc.42
         version: 2.0.0-rc.42(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))
       '@vuepress/plugin-nprogress':
-        specifier: 2.0.0-rc.40
-        version: 2.0.0-rc.40(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))
+        specifier: 2.0.0-rc.42
+        version: 2.0.0-rc.42(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))
       '@vuepress/plugin-pwa':
         specifier: 2.0.0-rc.42
         version: 2.0.0-rc.42(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))
@@ -1445,6 +1445,11 @@ packages:
     resolution: {integrity: sha512-FddmKKa69I7Xf6b62gP2UWZqONZngQoc9mjL3VcSc1GZafidr3UWIyPxpPqUKHUjaCBf427MS5SwguXk9Uazjg==}
     peerDependencies:
       vuepress: 2.0.0-rc.14
+
+  '@vuepress/plugin-nprogress@2.0.0-rc.42':
+    resolution: {integrity: sha512-yKe4jtjVvjhK8Gawtv1ivf9m1o2mKZdYspz76Uu1HkCAQPYK0mTFDUdsRqATwM+tP8di1Kcbvn/okfyr1wcHiA==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.15
 
   '@vuepress/plugin-palette@2.0.0-rc.37':
     resolution: {integrity: sha512-wzsywEeZFHOcRITIff1SC0jXsMasze3t0d9gc0cp5iB/OW3bEdhes4mFmPtZZmWfnlmgajq/7uTEavEXVWJTIA==}
@@ -4822,6 +4827,14 @@ snapshots:
 
   '@vuepress/plugin-nprogress@2.0.0-rc.40(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))':
     dependencies:
+      vue: 3.4.38
+      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38)
+    transitivePeerDependencies:
+      - typescript
+
+  '@vuepress/plugin-nprogress@2.0.0-rc.42(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))':
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.42(vuepress@2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38))
       vue: 3.4.38
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15(@types/node@22.4.1)(sass@1.77.8)(terser@5.31.6)(yaml@2.5.0))(vue@3.4.38)
     transitivePeerDependencies:
