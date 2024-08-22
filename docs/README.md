@@ -11,18 +11,11 @@ actions:
   - text: 加入服务器
     link: /join/java.md
     type: secondary
-#features:
-#- title: 简洁明了
-#  details: 采用简洁的语法和清晰的结构，使文档易于阅读和理解。
-#- title: 强大扩展性
-#  details: VuePress 提供了丰富的插件和主题，可以满足各种文档需求。
-#- title: 自定义配置
-#  details: 可以根据自己的需求进行配置，包括导航栏、侧边栏、样式等。
 ---
 
 ### 欢迎来到有兽焉粉丝服帮助中心！
 
-本文档在源文档的基础上进行了页面的完全重构，由 Docsify 改为 VuePress ，不再使用 Github Page，而是使用阿里云 OSS 进行托管。
+本页是有兽焉粉丝服帮助中心主页，在这里你可以阅读帮助文档，加入服务器，获取服务器状态。
 
 ::: tip 提示
 点击左侧按钮开始阅读帮助文档，点击右侧按钮按照提示加入服务器。
@@ -31,6 +24,46 @@ actions:
 服务器群号：`971327134`
 
 加群链接：[点此加入有兽焉 Java 粉丝服官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
+
+### 文档贡献
+
+<div class="contributors">
+  <div class="contributor-card full-width">
+    <img src="https://avatars.githubusercontent.com/u/96456728?v=4" alt="Zorua Fox" class="contributor-avatar">
+    <div class="contributor-info">
+      <p class="contributor-name"><a href="https://github.com/ZoruaFox" target="_blank">Zorua Fox</a></p>
+      <p class="contributor-role">总策划</p>
+    </div>
+  </div>
+  <div class="contributor-card">
+    <img src="https://avatars.githubusercontent.com/u/45301993?&v=4" alt="Contributor 2" class="contributor-avatar">
+    <div class="contributor-info">
+      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">白给</a></p>
+      <p class="contributor-role">文档编写、样式设计</p>
+    </div>
+  </div>
+  <div class="contributor-card">
+    <img src="https://avatars.githubusercontent.com/u/75785656?&v=4" alt="Contributor 3" class="contributor-avatar">
+    <div class="contributor-info">
+      <p class="contributor-name"><a href="https://github.com/luobi125" target="_blank">罗比</a></p>
+      <p class="contributor-role">文档编写</p>
+    </div>
+  </div>
+  <div class="contributor-card">
+    <img src="https://avatars.githubusercontent.com/u/69202360?&v=4" alt="Contributor 4" class="contributor-avatar">
+    <div class="contributor-info">
+      <p class="contributor-name"><a href="https://github.com/RegadPoleCN" target="_blank">RegadPoleCN</a></p>
+      <p class="contributor-role">文档编写</p>
+    </div>
+  </div>
+  <div class="contributor-card">
+    <img src="https://avatars.githubusercontent.com/u/126956027?&v=4" alt="Contributor 5" class="contributor-avatar">
+    <div class="contributor-info">
+      <p class="contributor-name"><a href="https://github.com/BasicMirror268" target="_blank">十四行诗</a></p>
+      <p class="contributor-role">文档编写</p>
+    </div>
+  </div>
+</div>
 
 ### 服务器状态
 
