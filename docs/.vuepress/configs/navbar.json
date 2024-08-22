@@ -43,7 +43,7 @@
                 },
                 {
                     "text": "基础指令集",
-                    "link": "/play/playercommands.md"
+                    "link": "/playercommands.md"
                 },
                 {
                     "text": "经济体系",
@@ -60,15 +60,15 @@
             ]
         },
         {
+            "text": "FAQ",
+            "link": "/faq.md"
+        },
+        {
             "text": "实用链接",
             "children": [
                 {
                     "text": "封禁记录",
                     "link": "https://ban.mc.zorua.top"
-                },
-                {
-                    "text": "皮肤站（内测）",
-                    "link": "https://skin.mc.zorua.top"
                 }
             ]
         }

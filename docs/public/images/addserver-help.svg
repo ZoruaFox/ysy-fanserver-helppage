@@ -1,0 +1,390 @@
+<svg width="1100" height="680" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <pattern patternUnits="userSpaceOnUse" height="10" width="10" id="djs-grid-pattern-5712">
+   <circle id="svg_3" fill=" rgb(204, 204, 204)" r="0.5" cy="0.5" cx="0.5"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_256">
+   <g id="svg_4" class="djs-group">
+    <g id="svg_5" display=" block" transform="matrix(1 0 0 1 340 330)" data-element-id="Activity_09omfwk" class="djs-element djs-shape">
+     <g id="svg_6" class="djs-visual">
+      <rect id="svg_7" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_8" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_9" y="0.41815" x="-101.18185">国际版</tspan>
+      </text>
+     </g>
+     <rect id="svg_10" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_11" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_12" class="djs-group">
+    <g id="svg_13" display=" block" transform="matrix(1 0 0 1 550 210)" data-element-id="Activity_0fdf73g" class="djs-element djs-shape">
+     <g id="svg_14" class="djs-visual">
+      <rect id="svg_15" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_16" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_17" y="0.41815" x="-98.26935">PC端</tspan>
+      </text>
+     </g>
+     <rect id="svg_18" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_19" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_20" class="djs-group">
+    <g id="svg_21" display=" block" transform="matrix(1 0 0 1 550 490)" data-element-id="Activity_03yv46l" class="djs-element djs-shape">
+     <g id="svg_22" class="djs-visual">
+      <rect id="svg_23" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_24" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_25" y="0.41815" x="-101.18185">移动端</tspan>
+      </text>
+     </g>
+     <rect id="svg_26" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_27" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_28" class="djs-group">
+    <g id="svg_29" display=" block" transform="matrix(1 0 0 1 750 170)" data-element-id="Activity_0ldhmy0" class="djs-element djs-shape">
+     <g id="svg_30" class="djs-visual">
+      <rect id="svg_31" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_32" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_33" y="0.41815" x="-102.60685">Java版</tspan>
+      </text>
+     </g>
+     <rect id="svg_34" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_35" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_36" class="djs-group">
+    <g id="svg_37" display=" block" transform="matrix(1 0 0 1 750 300)" data-element-id="Activity_0w8dgzn" class="djs-element djs-shape">
+     <g id="svg_38" class="djs-visual">
+      <rect id="svg_39" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_40" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_41" y="0.41815" x="-101.18185">基岩版</tspan>
+      </text>
+     </g>
+     <rect id="svg_42" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_43" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_44" class="djs-group">
+    <g id="svg_45" display=" block" transform="matrix(1 0 0 1 950 250)" data-element-id="Activity_1nmb4lr" class="djs-element djs-shape">
+     <g id="svg_46" class="djs-visual">
+      <rect id="svg_47" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_48" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_49" y="0.41815" x="-113.18185">官方启动器</tspan>
+      </text>
+     </g>
+     <rect id="svg_50" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_51" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_52" class="djs-group">
+    <g id="svg_53" display=" block" transform="matrix(1 0 0 1 750 440)" data-element-id="Activity_1w40lzg" class="djs-element djs-shape">
+     <g id="svg_54" class="djs-visual">
+      <rect id="svg_55" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_56" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_57" y="0.41815" x="-101.18185">基岩版</tspan>
+      </text>
+     </g>
+     <rect id="svg_58" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_59" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_60" class="djs-group">
+    <g id="svg_61" display=" block" transform="matrix(1 0 0 1 950 130)" data-element-id="Activity_16zh8ci" class="djs-element djs-shape">
+     <g id="svg_62" class="djs-visual">
+      <rect id="svg_63" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_64" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_65" y="0.41815" x="-119.18185">第三方启动器</tspan>
+      </text>
+     </g>
+     <rect id="svg_66" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_67" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_68" class="djs-group">
+    <g id="svg_69" display=" block" transform="matrix(1 0 0 1 1110 80)" data-element-id="Activity_1kr7p03" class="djs-element djs-shape">
+     <g id="svg_70" class="djs-visual">
+      <rect id="svg_71" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_72" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_73" y="0.41815" x="-98.19435">PCL2</tspan>
+      </text>
+     </g>
+     <rect id="svg_74" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_75" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_76" class="djs-group">
+    <g id="svg_77" display=" block" transform="matrix(1 0 0 1 1110 180)" data-element-id="Activity_1t9di8r" class="djs-element djs-shape">
+     <g id="svg_78" class="djs-visual">
+      <rect id="svg_79" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_80" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_81" y="0.41815" x="-98.18185">HMCl</tspan>
+      </text>
+     </g>
+     <rect id="svg_82" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_83" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_84" class="djs-group">
+    <g id="svg_85" display=" block" transform="matrix(1 0 0 1 1110 280)" data-element-id="Activity_0wuksmm" class="djs-element djs-shape">
+     <g id="svg_86" class="djs-visual">
+      <rect id="svg_87" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_88" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_89" y="0.41815" x="-93.1881">......</tspan>
+      </text>
+     </g>
+     <rect id="svg_90" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_91" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_92" class="djs-group">
+    <g id="svg_93" display=" block" transform="matrix(1 0 0 1 340 550)" data-element-id="Activity_05hga94" class="djs-element djs-shape">
+     <g id="svg_94" class="djs-visual">
+      <rect id="svg_95" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_96" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_97" y="0.41815" x="-101.18185">中国版</tspan>
+      </text>
+     </g>
+     <rect id="svg_98" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_99" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_100" class="djs-group">
+    <g id="svg_101" display=" block" transform="matrix(1 0 0 1 510 610)" data-element-id="Activity_1nnxk8i" class="djs-element djs-shape">
+     <g id="svg_102" class="djs-visual">
+      <rect id="svg_103" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_104" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_105" y="0.41815" x="-101.18185">已停服</tspan>
+      </text>
+     </g>
+     <rect id="svg_106" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_107" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_108" class="djs-group">
+    <g id="svg_109" display=" block" transform="matrix(1 0 0 1 160 450)" data-element-id="Activity_1ys9b7d" class="djs-element djs-shape">
+     <g id="svg_110" class="djs-visual">
+      <rect id="svg_111" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_112" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_113" y="0.41815" x="-107.18185">开始游玩</tspan>
+      </text>
+     </g>
+     <rect id="svg_114" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_115" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_116" class="djs-group">
+    <g id="svg_117" display=" block" transform="matrix(1 0 0 1 880 380)" data-element-id="Activity_0sagivr" class="djs-element djs-shape">
+     <g id="svg_118" class="djs-visual">
+      <rect id="svg_119" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_120" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_121" y="0.41815" x="-107.18185">官方网站</tspan>
+      </text>
+     </g>
+     <rect id="svg_122" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_123" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_124" class="djs-group">
+    <g id="svg_125" display=" block" transform="matrix(1 0 0 1 880 490)" data-element-id="Activity_1pty3zk" class="djs-element djs-shape">
+     <g id="svg_126" class="djs-visual">
+      <rect id="svg_127" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_128" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_129" y="0.41815" x="-108.5256">MCAPKS</tspan>
+      </text>
+     </g>
+     <rect id="svg_130" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_131" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_132" class="djs-group">
+    <g id="svg_133" display=" block" transform="matrix(1 0 0 1 750 610)" data-element-id="Activity_1d1fzbr" class="djs-element djs-shape">
+     <g id="svg_134" class="djs-visual">
+      <rect id="svg_135" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_136" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_137" y="0.41815" x="-102.60685">Java版</tspan>
+      </text>
+     </g>
+     <rect id="svg_138" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_139" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_140" class="djs-group">
+    <g id="svg_141" display=" block" transform="matrix(1 0 0 1 880 610)" data-element-id="Activity_0bket7t" class="djs-element djs-shape">
+     <g id="svg_142" class="djs-visual">
+      <rect id="svg_143" fill-opacity="0.95" fill=" white" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" ry="10" rx="10" height="80" width="100" y="-45" x="-135.00001"/>
+      <text x="-135.00001" y="-45" id="svg_144" fill=" rgb(34, 36, 42)" font-weight=" normal" font-size=" 12px" font-family=" Arial, sans-serif" class="djs-label" lineHeight="1.2">
+       <tspan id="svg_145" y="0.41815" x="-123.61212">PojavLauncher</tspan>
+      </text>
+     </g>
+     <rect id="svg_146" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" height="80" width="100" y="-45" x="-135.00001" class="djs-hit djs-hit-all"/>
+     <rect id="svg_147" fill=" none" class="djs-outline" height="90" width="110" rx="14" y="-50" x="-140.00001"/>
+    </g>
+   </g>
+   <g id="svg_148" class="djs-group">
+    <g id="svg_149" display=" block" data-element-id="Flow_0mgdev4" class="djs-element djs-connection">
+     <g id="svg_150" class="djs-visual">
+      <path id="svg_151" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m124.99999,445l35,0c2.5,0 5,-2.5 5,-5l0,-110c0,-2.5 2.5,-5 5,-5l35,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_152" fill=" none" class="djs-outline" height="130" width="90" rx="4" y="320" x="119.99999"/>
+     <path id="svg_153" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m124.99999,445l40,0l0,-120l40,0"/>
+    </g>
+   </g>
+   <g id="svg_154" class="djs-group">
+    <g id="svg_155" display=" block" data-element-id="Flow_0dckh2f" class="djs-element djs-connection">
+     <g id="svg_156" class="djs-visual">
+      <path id="svg_157" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m304.99999,325l50,0c2.5,0 5,-2.5 5,-5l0,-110c0,-2.5 2.5,-5 5,-5l50,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_158" fill=" none" class="djs-outline" height="130" width="120" rx="4" y="200" x="299.99999"/>
+     <path id="svg_159" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m304.99999,325l55,0l0,-120l55,0"/>
+    </g>
+   </g>
+   <g id="svg_160" class="djs-group">
+    <g id="svg_161" display=" block" data-element-id="Flow_1ilvqvp" class="djs-element djs-connection">
+     <g id="svg_162" class="djs-visual">
+      <path id="svg_163" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m304.99999,325l50,0c2.5,0 5,2.5 5,5l0,150c0,2.5 2.5,5 5,5l50,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_164" fill=" none" class="djs-outline" height="170" width="120" rx="4" y="320" x="299.99999"/>
+     <path id="svg_165" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m304.99999,325l55,0l0,160l55,0"/>
+    </g>
+   </g>
+   <g id="svg_166" class="djs-group">
+    <g id="svg_167" display=" block" data-element-id="Flow_0m2b23e" class="djs-element djs-connection">
+     <g id="svg_168" class="djs-visual">
+      <path id="svg_169" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m514.99999,205l45,0c2.5,0 5,-2.5 5,-5l0,-30c0,-2.5 2.5,-5 5,-5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_170" fill=" none" class="djs-outline" height="50" width="110" rx="4" y="160" x="509.99999"/>
+     <path id="svg_171" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m514.99999,205l50,0l0,-40l50,0"/>
+    </g>
+   </g>
+   <g id="svg_172" class="djs-group">
+    <g id="svg_173" display=" block" data-element-id="Flow_0ebt8th" class="djs-element djs-connection">
+     <g id="svg_174" class="djs-visual">
+      <path id="svg_175" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m514.99999,205l45,0c2.5,0 5,2.5 5,5l0,80c0,2.5 2.5,5 5,5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_176" fill=" none" class="djs-outline" height="100" width="110" rx="4" y="200" x="509.99999"/>
+     <path id="svg_177" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m514.99999,205l50,0l0,90l50,0"/>
+    </g>
+   </g>
+   <g id="svg_178" class="djs-group">
+    <g id="svg_179" display=" block" data-element-id="Flow_0ll99jn" class="djs-element djs-connection">
+     <g id="svg_180" class="djs-visual">
+      <path id="svg_181" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m514.99999,485l45,0c2.5,0 5,-2.5 5,-5l0,-40c0,-2.5 2.5,-5 5,-5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_182" fill=" none" class="djs-outline" height="60" width="110" rx="4" y="430" x="509.99999"/>
+     <path id="svg_183" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m514.99999,485l50,0l0,-50l50,0"/>
+    </g>
+   </g>
+   <g id="svg_184" class="djs-group">
+    <g id="svg_185" display=" block" data-element-id="Flow_0y2ej3y" class="djs-element djs-connection">
+     <g id="svg_186" class="djs-visual">
+      <path id="svg_187" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m514.99999,485l45,0c2.5,0 5,2.5 5,5l0,110c0,2.5 2.5,5 5,5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_188" fill=" none" class="djs-outline" height="130" width="110" rx="4" y="480" x="509.99999"/>
+     <path id="svg_189" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m514.99999,485l50,0l0,120l50,0"/>
+    </g>
+   </g>
+   <g id="svg_190" class="djs-group">
+    <g id="svg_191" display=" block" data-element-id="Flow_1yzfijg" class="djs-element djs-connection">
+     <g id="svg_192" class="djs-visual">
+      <path id="svg_193" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,135l100,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_194" fill=" none" class="djs-outline" height="10" width="110" rx="4" y="130" x="709.99999"/>
+     <path id="svg_195" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,135l100,0"/>
+    </g>
+   </g>
+   <g id="svg_196" class="djs-group">
+    <g id="svg_197" display=" block" data-element-id="Flow_1iyhk9q" class="djs-element djs-connection">
+     <g id="svg_198" class="djs-visual">
+      <path id="svg_199" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,195l45,0c2.5,0 5,2.5 5,5l0,30c0,2.5 2.5,5 5,5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_200" fill=" none" class="djs-outline" height="50" width="110" rx="4" y="190" x="709.99999"/>
+     <path id="svg_201" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,195l50,0l0,40l50,0"/>
+    </g>
+   </g>
+   <g id="svg_202" class="djs-group">
+    <g id="svg_203" display=" block" data-element-id="Flow_166n9gh" class="djs-element djs-connection">
+     <g id="svg_204" class="djs-visual">
+      <path id="svg_205" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,295l45,0c2.5,0 5,-2.5 5,-5l0,-20c0,-2.5 2.5,-5 5,-5l45,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_206" fill=" none" class="djs-outline" height="40" width="110" rx="4" y="260" x="709.99999"/>
+     <path id="svg_207" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,295l50,0l0,-30l50,0"/>
+    </g>
+   </g>
+   <g id="svg_208" class="djs-group">
+    <g id="svg_209" display=" block" data-element-id="Flow_0qgtvti" class="djs-element djs-connection">
+     <g id="svg_210" class="djs-visual">
+      <path id="svg_211" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,435l10,0c2.5,0 5,-2.5 5,-5l0,-50c0,-2.5 2.5,-5 5,-5l10,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_212" fill=" none" class="djs-outline" height="70" width="40" rx="4" y="370" x="709.99999"/>
+     <path id="svg_213" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,435l15,0l0,-60l15,0"/>
+    </g>
+   </g>
+   <g id="svg_214" class="djs-group">
+    <g id="svg_215" display=" block" data-element-id="Flow_13iwi2l" class="djs-element djs-connection">
+     <g id="svg_216" class="djs-visual">
+      <path id="svg_217" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,435l10,0c2.5,0 5,2.5 5,5l0,40c0,2.5 2.5,5 5,5l10,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_218" fill=" none" class="djs-outline" height="60" width="40" rx="4" y="430" x="709.99999"/>
+     <path id="svg_219" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,435l15,0l0,50l15,0"/>
+    </g>
+   </g>
+   <g id="svg_220" class="djs-group">
+    <g id="svg_221" display=" block" data-element-id="Flow_0d2d9uq" class="djs-element djs-connection">
+     <g id="svg_222" class="djs-visual">
+      <path id="svg_223" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m914.99999,125l25,0c2.5,0 5,-2.5 5,-5l0,-40c0,-2.5 2.5,-5 5,-5l25,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_224" fill=" none" class="djs-outline" height="60" width="70" rx="4" y="70" x="909.99999"/>
+     <path id="svg_225" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m914.99999,125l30,0l0,-50l30,0"/>
+    </g>
+   </g>
+   <g id="svg_226" class="djs-group">
+    <g id="svg_227" display=" block" data-element-id="Flow_0aq7zje" class="djs-element djs-connection">
+     <g id="svg_228" class="djs-visual">
+      <path id="svg_229" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m914.99999,125l25,0c2.5,0 5,2.5 5,5l0,40c0,2.5 2.5,5 5,5l25,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_230" fill=" none" class="djs-outline" height="60" width="70" rx="4" y="120" x="909.99999"/>
+     <path id="svg_231" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m914.99999,125l30,0l0,50l30,0"/>
+    </g>
+   </g>
+   <g id="svg_232" class="djs-group">
+    <g id="svg_233" display=" block" data-element-id="Flow_1abwx0u" class="djs-element djs-connection">
+     <g id="svg_234" class="djs-visual">
+      <path id="svg_235" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m914.99999,125l25,0c2.5,0 5,2.5 5,5l0,140c0,2.5 2.5,5 5,5l25,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_236" fill=" none" class="djs-outline" height="160" width="70" rx="4" y="120" x="909.99999"/>
+     <path id="svg_237" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m914.99999,125l30,0l0,150l30,0"/>
+    </g>
+   </g>
+   <g id="svg_238" class="djs-group">
+    <g id="svg_239" display=" block" data-element-id="Flow_1eh2rcy" class="djs-element djs-connection">
+     <g id="svg_240" class="djs-visual">
+      <path id="svg_241" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m124.99999,445l35,0c2.5,0 5,2.5 5,5l0,90c0,2.5 2.5,5 5,5l35,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_242" fill=" none" class="djs-outline" height="110" width="90" rx="4" y="440" x="119.99999"/>
+     <path id="svg_243" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m124.99999,445l40,0l0,100l40,0"/>
+    </g>
+   </g>
+   <g id="svg_244" class="djs-group">
+    <g id="svg_245" display=" block" data-element-id="Flow_1kma0yn" class="djs-element djs-connection">
+     <g id="svg_246" class="djs-visual">
+      <path id="svg_247" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m304.99999,545l30,0c2.5,0 5,2.5 5,5l0,50c0,2.5 2.5,5 5,5l30,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_248" fill=" none" class="djs-outline" height="70" width="80" rx="4" y="540" x="299.99999"/>
+     <path id="svg_249" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m304.99999,545l35,0l0,60l35,0"/>
+    </g>
+   </g>
+   <g id="svg_250" class="djs-group">
+    <g id="svg_251" display=" block" data-element-id="Flow_0if34wj" class="djs-element djs-connection">
+     <g id="svg_252" class="djs-visual">
+      <path id="svg_253" marker-end=" url('#sequenceflow-end-white-hsl_225_10_15_-9jud7fpgen1yq20z9urigc6ac')" stroke-width=" 2px" stroke=" rgb(34, 36, 42)" stroke-linejoin=" round" stroke-linecap=" round" fill=" none" d="m714.99999,605l30,0" data-corner-radius="5"/>
+     </g>
+     <rect id="svg_254" fill=" none" class="djs-outline" height="10" width="40" rx="4" y="600" x="709.99999"/>
+     <path id="svg_255" stroke-width=" 15px" stroke=" white" stroke-opacity="0" fill=" none" class="djs-hit djs-hit-stroke" d="m714.99999,605l30,0"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
