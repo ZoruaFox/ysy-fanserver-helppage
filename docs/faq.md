@@ -11,7 +11,7 @@ FreeCam（灵魂出窍）在使用时会请求超出玩家应有视距的方块�
 ## 2. 为什么使用基岩版客户端无法进入游戏？
 服务器核心程序使用的是 Java 版本，基岩版互通基于 Gayser 进行，由于两个版本之间存在差异，有时会出现无法进入游戏的情况。遇到此情况，你可以稍后重试，若多次尝试仍无法无法进入，请使用 Java 版本。
 ::: tip
-Gayser 官方支持的基岩版Minecraft版本可在[这里](https://geysermc.org/wiki/geyser/supported-versions/)查看
+Geyser 官方支持的基岩版Minecraft版本可在[这里](https://geysermc.org/wiki/geyser/supported-versions/)查看
 :::
 
 ## 3. 本服务器为什么没有什么有兽焉元素
