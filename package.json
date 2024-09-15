@@ -20,11 +20,11 @@
     "@vuepress/plugin-reading-time": "2.0.0-rc.42",
     "@vuepress/plugin-shiki": "2.0.0-rc.42",
     "@vuepress/theme-default": "2.0.0-rc.42",
-    "vue": "^3.4.38",
+    "vue": "^3.5.5",
     "vuepress": "2.0.0-rc.15",
     "vuepress-plugin-md-enhance": "2.0.0-rc.52",
     "vuepress-plugin-search-pro": "2.0.0-rc.52",
     "vuepress-theme-hope": "2.0.0-rc.52",
-    "yaml": "^2.5.0"
+    "yaml": "^2.5.1"
   }
 }
