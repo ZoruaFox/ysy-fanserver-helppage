@@ -1,11 +1,4 @@
----
-prev:
-    text: QQ群互通
-    link: /play/qq.md
-#next:
-#    text: 领地
-#    link: /play/residence.md
----
+
 # 皮肤设置
 服务器的皮肤设置为服务器端功能，无需安装任何另外的MOD，玩家可以在游戏内设置自己的皮肤。
 :::danger 警告

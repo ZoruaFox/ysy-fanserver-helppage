@@ -1,8 +1,4 @@
----
-prev:
-  text: 领地
-  link: /play/residence.md
----
+
 # QQ群互通
 服务器支持QQ群与游戏内消息互通，玩家可以在QQ群内收发游戏内消息，也可以在游戏内收发QQ群消息。
 
