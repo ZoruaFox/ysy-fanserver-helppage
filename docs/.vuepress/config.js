@@ -26,7 +26,7 @@ export default defineUserConfig({
     docsDir: 'docs',
     editLinkPattern: ':repo/edit/:branch/:path',
     backToHome: '返回首页', // back to home page text
-    contributors: true, // true | false
+    contributors: false, // true | false
     openInNewWindow: '在新窗口打开', // open in new window text
     logo: '/images/logo.png', //这个皮皮好可爱（
     // smoothScroll: true,
@@ -75,7 +75,7 @@ export default defineUserConfig({
         langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
       }, // 复制代码插件
       pwa: {
-        showInstall: true,
+        showInstall: true,  
         favicon: '/images/favicon/favicon.ico',
         manifest: {
           icons: [
