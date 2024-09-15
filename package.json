@@ -19,7 +19,7 @@
     "@vuepress/plugin-pwa": "2.0.0-rc.42",
     "@vuepress/plugin-reading-time": "2.0.0-rc.42",
     "@vuepress/plugin-shiki": "2.0.0-rc.42",
-    "@vuepress/theme-default": "2.0.0-rc.42",
+    "@vuepress/theme-default": "2.0.0-rc.43",
     "vue": "^3.5.5",
     "vuepress": "2.0.0-rc.15",
     "vuepress-plugin-md-enhance": "2.0.0-rc.52",
