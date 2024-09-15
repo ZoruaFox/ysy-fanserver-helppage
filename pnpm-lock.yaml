@@ -15,8 +15,8 @@ devDependencies:
     specifier: 2.0.0-rc.43
     version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-medium-zoom':
-    specifier: 2.0.0-rc.42
-    version: 2.0.0-rc.42(vuepress@2.0.0-rc.15)
+    specifier: 2.0.0-rc.43
+    version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-nprogress':
     specifier: 2.0.0-rc.43
     version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
@@ -2663,20 +2663,6 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-back-to-top@2.0.0-rc.42(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-6X8cr0pTYfZRt23o4oT8EahG2bJa5QmFjxKhozw4VmkmBDbb4Yq1h9wgCdkIMROqb6kYMzhJM7++jRiXWbvI3w==}
-    peerDependencies:
-      vuepress: 2.0.0-rc.15
-    dependencies:
-      '@vuepress/helper': 2.0.0-rc.42(vuepress@2.0.0-rc.15)
-      '@vueuse/core': 11.0.3(vue@3.5.5)
-      vue: 3.5.5
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
-    transitivePeerDependencies:
-      - '@vue/composition-api'
-      - typescript
-    dev: true
-
   /@vuepress/plugin-back-to-top@2.0.0-rc.43(vuepress@2.0.0-rc.15):
     resolution: {integrity: sha512-ijnm8k/xCVk+0ze6r9pIp99tEErQy7MLaCpHkOcOkSlE6b04v9zPJNXwH74xXNgwgwuaoUPFJC0T4ILD2SrY9w==}
     peerDependencies:
@@ -2746,20 +2732,6 @@ packages:
     dependencies:
       '@vuepress/helper': 2.0.0-rc.39(vuepress@2.0.0-rc.15)
       '@vueuse/core': 10.11.1(vue@3.5.5)
-      vue: 3.5.5
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
-    transitivePeerDependencies:
-      - '@vue/composition-api'
-      - typescript
-    dev: true
-
-  /@vuepress/plugin-copy-code@2.0.0-rc.42(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-N6t/45fGUeFPAEZuG4zFXiThsAphWjaRzTkE3LEuf4AOaMXCQfTs4YzSZsuiutZySDOHegDgReEomsb+SA4phw==}
-    peerDependencies:
-      vuepress: 2.0.0-rc.15
-    dependencies:
-      '@vuepress/helper': 2.0.0-rc.42(vuepress@2.0.0-rc.15)
-      '@vueuse/core': 11.0.3(vue@3.5.5)
       vue: 3.5.5
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
     transitivePeerDependencies:
@@ -2860,19 +2832,6 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-medium-zoom@2.0.0-rc.42(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-zHgnB1tQUv3/semdYuqT2YnXWzlryDRqz8XDl0CsZVbN5m3oIy24yVQcAs7HPfK/PPGzg+CpzlUCrberuN7mVg==}
-    peerDependencies:
-      vuepress: 2.0.0-rc.15
-    dependencies:
-      '@vuepress/helper': 2.0.0-rc.42(vuepress@2.0.0-rc.15)
-      medium-zoom: 1.1.0
-      vue: 3.5.5
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
-    transitivePeerDependencies:
-      - typescript
-    dev: true
-
   /@vuepress/plugin-medium-zoom@2.0.0-rc.43(vuepress@2.0.0-rc.15):
     resolution: {integrity: sha512-8I2l7UQqrpbhAqUN31Z0smMdL59rhavtYnNWrCpvYkgZukQ/5RQEiSrmW2BxfBZAqRAo/jeO1eGjAUu4+J6I8Q==}
     peerDependencies:
@@ -2905,18 +2864,6 @@ packages:
     peerDependencies:
       vuepress: 2.0.0-rc.14
     dependencies:
-      vue: 3.5.5
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
-    transitivePeerDependencies:
-      - typescript
-    dev: true
-
-  /@vuepress/plugin-nprogress@2.0.0-rc.42(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-yKe4jtjVvjhK8Gawtv1ivf9m1o2mKZdYspz76Uu1HkCAQPYK0mTFDUdsRqATwM+tP8di1Kcbvn/okfyr1wcHiA==}
-    peerDependencies:
-      vuepress: 2.0.0-rc.15
-    dependencies:
-      '@vuepress/helper': 2.0.0-rc.42(vuepress@2.0.0-rc.15)
       vue: 3.5.5
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.5)
     transitivePeerDependencies:
