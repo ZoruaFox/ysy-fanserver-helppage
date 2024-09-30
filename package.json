@@ -23,7 +23,7 @@
     "vue": "^3.5.5",
     "vuepress": "2.0.0-rc.15",
     "vuepress-plugin-md-enhance": "2.0.0-rc.52",
-    "vuepress-plugin-search-pro": "2.0.0-rc.52",
+    "vuepress-plugin-search-pro": "2.0.0-rc.57",
     "vuepress-theme-hope": "2.0.0-rc.52",
     "yaml": "^2.5.1"
   }
