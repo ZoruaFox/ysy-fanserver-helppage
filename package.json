@@ -17,7 +17,7 @@
     "@vuepress/plugin-medium-zoom": "2.0.0-rc.43",
     "@vuepress/plugin-nprogress": "2.0.0-rc.43",
     "@vuepress/plugin-pwa": "2.0.0-rc.43",
-    "@vuepress/plugin-reading-time": "2.0.0-rc.43",
+    "@vuepress/plugin-reading-time": "2.0.0-rc.54",
     "@vuepress/plugin-shiki": "2.0.0-rc.43",
     "@vuepress/theme-default": "2.0.0-rc.43",
     "vue": "^3.5.5",
