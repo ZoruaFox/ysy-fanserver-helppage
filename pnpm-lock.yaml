@@ -27,8 +27,8 @@ devDependencies:
     specifier: 2.0.0-rc.54
     version: 2.0.0-rc.54(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-shiki':
-    specifier: 2.0.0-rc.43
-    version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
+    specifier: 2.0.0-rc.54
+    version: 2.0.0-rc.54(vuepress@2.0.0-rc.15)
   '@vuepress/theme-default':
     specifier: 2.0.0-rc.54
     version: 2.0.0-rc.54(markdown-it@14.1.0)(vuepress@2.0.0-rc.15)
@@ -2377,10 +2377,29 @@ packages:
       hast-util-to-html: 9.0.2
     dev: true
 
+  /@shikijs/core@1.22.0:
+    resolution: {integrity: sha512-S8sMe4q71TJAW+qG93s5VaiihujRK6rqDFqBnxqvga/3LvqHEnxqBIOPkt//IdXVtHkQWKu4nOQNk0uBGicU7Q==}
+    dependencies:
+      '@shikijs/engine-javascript': 1.22.0
+      '@shikijs/engine-oniguruma': 1.22.0
+      '@shikijs/types': 1.22.0
+      '@shikijs/vscode-textmate': 9.3.0
+      '@types/hast': 3.0.4
+      hast-util-to-html: 9.0.3
+    dev: true
+
   /@shikijs/engine-javascript@1.17.6:
     resolution: {integrity: sha512-5EEZj8tVcierNxm4V0UMS2PVoflb0UJPalWWV8l9rRg+oOfnr5VivqBJbkyq5grltVPvByIXvVbY8GSM/356jQ==}
     dependencies:
       '@shikijs/types': 1.17.6
+      oniguruma-to-js: 0.4.3
+    dev: true
+
+  /@shikijs/engine-javascript@1.22.0:
+    resolution: {integrity: sha512-AeEtF4Gcck2dwBqCFUKYfsCq0s+eEbCEbkUuFou53NZ0sTGnJnJ/05KHQFZxpii5HMXbocV9URYVowOP2wH5kw==}
+    dependencies:
+      '@shikijs/types': 1.22.0
+      '@shikijs/vscode-textmate': 9.3.0
       oniguruma-to-js: 0.4.3
     dev: true
 
@@ -2391,10 +2410,23 @@ packages:
       '@shikijs/vscode-textmate': 9.2.2
     dev: true
 
+  /@shikijs/engine-oniguruma@1.22.0:
+    resolution: {integrity: sha512-5iBVjhu/DYs1HB0BKsRRFipRrD7rqjxlWTj4F2Pf+nQSPqc3kcyqFFeZXnBMzDf0HdqaFVvhDRAGiYNvyLP+Mw==}
+    dependencies:
+      '@shikijs/types': 1.22.0
+      '@shikijs/vscode-textmate': 9.3.0
+    dev: true
+
   /@shikijs/transformers@1.17.6:
     resolution: {integrity: sha512-k2VAfbm19bF0ofPaEdWSQJrzT47ukCQcajWQsiGMwcH9DFBFFpFHzWTuwagmxwywAClCZiBkhP6U3uxngbJgRw==}
     dependencies:
       shiki: 1.17.6
+    dev: true
+
+  /@shikijs/transformers@1.22.0:
+    resolution: {integrity: sha512-k7iMOYuGQA62KwAuJOQBgH2IQb5vP8uiB3lMvAMGUgAMMurePOx3Z7oNqJdcpxqZP6I9cc7nc4DNqSKduCxmdg==}
+    dependencies:
+      shiki: 1.22.0
     dev: true
 
   /@shikijs/types@1.17.6:
@@ -2404,8 +2436,19 @@ packages:
       '@types/hast': 3.0.4
     dev: true
 
+  /@shikijs/types@1.22.0:
+    resolution: {integrity: sha512-Fw/Nr7FGFhlQqHfxzZY8Cwtwk5E9nKDUgeLjZgt3UuhcM3yJR9xj3ZGNravZZok8XmEZMiYkSMTPlPkULB8nww==}
+    dependencies:
+      '@shikijs/vscode-textmate': 9.3.0
+      '@types/hast': 3.0.4
+    dev: true
+
   /@shikijs/vscode-textmate@9.2.2:
     resolution: {integrity: sha512-TMp15K+GGYrWlZM8+Lnj9EaHEFmOen0WJBrfa17hF7taDOYthuPPV0GWzfd/9iMij0akS/8Yw2ikquH7uVi/fg==}
+    dev: true
+
+  /@shikijs/vscode-textmate@9.3.0:
+    resolution: {integrity: sha512-jn7/7ky30idSkd/O5yDBfAnVt+JJpepofP/POZ1iMOxK59cOfqIgg/Dj0eFsjOTMw+4ycJN0uhZH/Eb0bs/EUA==}
     dev: true
 
   /@sindresorhus/merge-streams@2.3.0:
@@ -2831,14 +2874,6 @@ packages:
     resolution: {integrity: sha512-da4wob8vmrB8DGsBsJCF1ox4E50/9Yc3F9CkNvuH/BS/Touk5KabAw36dCDW/420jTrm5UjRgwfVzfkakcaRIQ==}
     peerDependencies:
       vuepress: 2.0.0-rc.14
-    dependencies:
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
-    dev: true
-
-  /@vuepress/highlighter-helper@2.0.0-rc.43(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-n8rANKLVK0G3VSqB13nxcA3t1sgj4L3SpCqyN8WoNrFCX/lhm3dLJSxDPMfKyEhJhvpoPkBWsUNamSPwrwoHNQ==}
-    peerDependencies:
-      vuepress: 2.0.0-rc.15
     dependencies:
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
     dev: true
@@ -3391,18 +3426,20 @@ packages:
       - typescript
     dev: true
 
-  /@vuepress/plugin-shiki@2.0.0-rc.43(vuepress@2.0.0-rc.15):
-    resolution: {integrity: sha512-VP8GqAQUpQm4D6qIIGMNeMr+KHEsZO7tu6nNfOyo4EuCscThUx+OwBHMgEpUOvZaC1r/H6Wjg8CbNSPx8eem7A==}
+  /@vuepress/plugin-shiki@2.0.0-rc.54(vuepress@2.0.0-rc.15):
+    resolution: {integrity: sha512-rGUpqxL5GtRslr0N11n2BhVtX7BszaozzRgt2q26mtA2fU+v7toECQx50iLSMm+xeUPMmrP0cSKm/NrjsIwZyQ==}
     peerDependencies:
-      vuepress: 2.0.0-rc.15
+      vuepress: 2.0.0-rc.18
     dependencies:
-      '@shikijs/transformers': 1.17.6
-      '@vuepress/helper': 2.0.0-rc.43(vuepress@2.0.0-rc.15)
-      '@vuepress/highlighter-helper': 2.0.0-rc.43(vuepress@2.0.0-rc.15)
+      '@shikijs/transformers': 1.22.0
+      '@vuepress/helper': 2.0.0-rc.54(vuepress@2.0.0-rc.15)
+      '@vuepress/highlighter-helper': 2.0.0-rc.54(@vueuse/core@11.1.0)(vuepress@2.0.0-rc.15)
       nanoid: 5.0.7
-      shiki: 1.17.6
+      shiki: 1.22.0
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
     transitivePeerDependencies:
+      - '@vue/composition-api'
+      - '@vueuse/core'
       - typescript
     dev: true
 
@@ -4731,6 +4768,22 @@ packages:
       zwitch: 2.0.4
     dev: true
 
+  /hast-util-to-html@9.0.3:
+    resolution: {integrity: sha512-M17uBDzMJ9RPCqLMO92gNNUDuBSq10a25SDBI08iCCxmorf4Yy6sYHK57n9WAbRAAaU+DuR4W6GN9K4DFZesYg==}
+    dependencies:
+      '@types/hast': 3.0.4
+      '@types/unist': 3.0.3
+      ccount: 2.0.1
+      comma-separated-tokens: 2.0.3
+      hast-util-whitespace: 3.0.0
+      html-void-elements: 3.0.0
+      mdast-util-to-hast: 13.2.0
+      property-information: 6.5.0
+      space-separated-tokens: 2.0.2
+      stringify-entities: 4.0.4
+      zwitch: 2.0.4
+    dev: true
+
   /hast-util-whitespace@3.0.0:
     resolution: {integrity: sha512-88JUN06ipLwsnv+dVn+OIYOvAuvBMy/Qoi6O7mQHxdPXpjy+Cd6xRkWwux7DKO+4sYILtLBRIKgsdpS2gQc7qw==}
     dependencies:
@@ -5829,6 +5882,17 @@ packages:
       '@shikijs/engine-oniguruma': 1.17.6
       '@shikijs/types': 1.17.6
       '@shikijs/vscode-textmate': 9.2.2
+      '@types/hast': 3.0.4
+    dev: true
+
+  /shiki@1.22.0:
+    resolution: {integrity: sha512-/t5LlhNs+UOKQCYBtl5ZsH/Vclz73GIqT2yQsCBygr8L/ppTdmpL4w3kPLoZJbMKVWtoG77Ue1feOjZfDxvMkw==}
+    dependencies:
+      '@shikijs/core': 1.22.0
+      '@shikijs/engine-javascript': 1.22.0
+      '@shikijs/engine-oniguruma': 1.22.0
+      '@shikijs/types': 1.22.0
+      '@shikijs/vscode-textmate': 9.3.0
       '@types/hast': 3.0.4
     dev: true
 
