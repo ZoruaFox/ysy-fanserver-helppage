@@ -18,8 +18,8 @@ devDependencies:
     specifier: 2.0.0-rc.43
     version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-nprogress':
-    specifier: 2.0.0-rc.43
-    version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
+    specifier: 2.0.0-rc.54
+    version: 2.0.0-rc.54(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-pwa':
     specifier: 2.0.0-rc.43
     version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
@@ -2829,6 +2829,23 @@ packages:
       - typescript
     dev: true
 
+  /@vuepress/helper@2.0.0-rc.54(vuepress@2.0.0-rc.15):
+    resolution: {integrity: sha512-9AoxQ7+UqmkppMhk+4K1QwxEYFoUzn7Dw/PQrYhu+WRIz60oXn4uQrJucNgCTh/xcavbk6/T2d5QBOjlBzQbpA==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.18
+    dependencies:
+      '@vue/shared': 3.5.11
+      '@vueuse/core': 11.1.0(vue@3.5.11)
+      cheerio: 1.0.0
+      fflate: 0.8.2
+      gray-matter: 4.0.3
+      vue: 3.5.11
+      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - typescript
+    dev: true
+
   /@vuepress/highlighter-helper@2.0.0-rc.39(vuepress@2.0.0-rc.15):
     resolution: {integrity: sha512-da4wob8vmrB8DGsBsJCF1ox4E50/9Yc3F9CkNvuH/BS/Touk5KabAw36dCDW/420jTrm5UjRgwfVzfkakcaRIQ==}
     peerDependencies:
@@ -3147,6 +3164,19 @@ packages:
       vue: 3.5.11
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
     transitivePeerDependencies:
+      - typescript
+    dev: true
+
+  /@vuepress/plugin-nprogress@2.0.0-rc.54(vuepress@2.0.0-rc.15):
+    resolution: {integrity: sha512-BvOrG8/GvyZZjIlXz6JrAfdYov393nykpz1Jt82/1hOKRA8UVjWBbRGMQC7iYFNFAwmMwdKNI2EzmTR/9aSRAg==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.18
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.54(vuepress@2.0.0-rc.15)
+      vue: 3.5.11
+      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
       - typescript
     dev: true
 
@@ -6455,11 +6485,11 @@ packages:
       '@types/markdown-it': 14.1.2
       '@vuepress/helper': 2.0.0-rc.52(vuepress@2.0.0-rc.15)
       '@vuepress/plugin-sass-palette': 2.0.0-rc.52(vuepress@2.0.0-rc.15)
-      '@vueuse/core': 11.1.0(vue@3.5.10)
+      '@vueuse/core': 11.1.0(vue@3.5.11)
       balloon-css: 1.2.0
       js-yaml: 4.1.0
-      vue: 3.5.10
-      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.15)(vue@3.5.6)
+      vue: 3.5.11
+      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
       vuepress-shared: 2.0.0-rc.57(vuepress@2.0.0-rc.15)
     transitivePeerDependencies:
       - '@vue/composition-api'
