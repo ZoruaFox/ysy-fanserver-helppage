@@ -15,8 +15,8 @@ devDependencies:
     specifier: 2.0.0-rc.43
     version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-medium-zoom':
-    specifier: 2.0.0-rc.43
-    version: 2.0.0-rc.43(vuepress@2.0.0-rc.15)
+    specifier: 2.0.0-rc.54
+    version: 2.0.0-rc.54(vuepress@2.0.0-rc.15)
   '@vuepress/plugin-nprogress':
     specifier: 2.0.0-rc.54
     version: 2.0.0-rc.54(vuepress@2.0.0-rc.15)
@@ -3127,6 +3127,20 @@ packages:
       vue: 3.5.11
       vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
     transitivePeerDependencies:
+      - typescript
+    dev: true
+
+  /@vuepress/plugin-medium-zoom@2.0.0-rc.54(vuepress@2.0.0-rc.15):
+    resolution: {integrity: sha512-H6qjYSzcDPzZWpJDck643vD3XpkHfvtpbBqxhj99creRE4ijsWv/12qpUQKp9yll2NDRj5sH9owHJjbMW/4E1Q==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.18
+    dependencies:
+      '@vuepress/helper': 2.0.0-rc.54(vuepress@2.0.0-rc.15)
+      medium-zoom: 1.1.0
+      vue: 3.5.11
+      vuepress: 2.0.0-rc.15(@vuepress/bundler-vite@2.0.0-rc.18)(vue@3.5.11)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
       - typescript
     dev: true
 
