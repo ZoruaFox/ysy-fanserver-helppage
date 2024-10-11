@@ -11,7 +11,7 @@
     "docs:update-packagepnpm": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.15",
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
     "@vuepress/plugin-back-to-top": "2.0.0-rc.43",
     "@vuepress/plugin-copy-code": "2.0.0-rc.43",
     "@vuepress/plugin-medium-zoom": "2.0.0-rc.43",
