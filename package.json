@@ -1,6 +1,6 @@
 {
   "name": "ysserver-helppage",
-  "version": "0.0.1",
+  "version": "2.0.0",
   "description": "有兽焉粉丝服帮助页",
   "license": "MIT",
   "type": "module",
@@ -20,12 +20,17 @@
     "@vuepress/plugin-reading-time": "2.0.0-rc.56",
     "@vuepress/plugin-shiki": "2.0.0-rc.56",
     "@vuepress/theme-default": "2.0.0-rc.56",
-    "sass-embedded": "^1.80.3",
+    "sass-embedded": "^1.80.4",
     "vue": "^3.5.12",
     "vuepress": "2.0.0-rc.18",
     "vuepress-plugin-md-enhance": "2.0.0-rc.59",
     "vuepress-plugin-search-pro": "2.0.0-rc.59",
     "vuepress-theme-hope": "2.0.0-rc.59",
     "yaml": "^2.6.0"
+  },
+  "dependencies": {
+    "@vuepress/plugin-markdown-hint": "2.0.0-rc.56",
+    "@vuepress/plugin-markdown-image": "2.0.0-rc.56",
+    "@vuepress/plugin-markdown-tab": "2.0.0-rc.56"
   }
 }

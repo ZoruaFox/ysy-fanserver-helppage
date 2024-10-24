@@ -4,6 +4,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { navbarConfig } from './configs/navbar.json'
 import { sidebarConfig } from './configs/sidebar.json'
 import { notFoundMsg } from './configs/notFoundMsg.json'
+import { shikiPlugin } from '@vuepress/plugin-shiki'
 
 export default defineUserConfig({
   bundler: viteBundler(), // vite
@@ -50,30 +51,24 @@ export default defineUserConfig({
       //   插件选项
       // },
       mdEnhance: {
-        // 添加选项卡支持
-        tabs: true,
         codetabs: true,
         // 启用下角标功能
         sub: true,
         // 启用上角标
         sup: true,
         tasklist: true,
-        figure: true,
         // 启用图片懒加载
-        imgLazyload: true,
         // 启用图片标记
-        imgMark: true,
-        // 启用图片大小
-        imgSize: true,
         footnote: true,
         demo: true,
-        alert: true,
       },
-      copyCode: {},
-      shikiPlugin: {
-        // 配置项
-        langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
-      }, // 复制代码插件
+      tabs: true,
+      imgLazyload: true,
+      figure: true,
+      alert: true,
+      imgMark: true,
+      imgSize: true,
+      copyCode: true,
       pwa: {
         showInstall: true,  
         favicon: '/images/favicon/favicon.ico',
@@ -94,8 +89,14 @@ export default defineUserConfig({
         apple: {
           icon: '/images/favicon/apple-touch-icon.png',
           statusBarColor: '#46bd87',
-        }
       }
     },
-  }),
+  },
+  plugins: [
+    shikiPlugin({
+      // 配置项
+      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
+      }) // highlight插件
+    ]
+  })
 })
