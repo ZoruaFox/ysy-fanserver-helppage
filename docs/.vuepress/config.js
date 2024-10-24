@@ -69,8 +69,12 @@ export default defineUserConfig({
       imgMark: true,
       imgSize: true,
       copyCode: true,
+      shikiPlugin:{
+        // 配置项
+        langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
+        },
       pwa: {
-        showInstall: true,  
+        showInstall: true,
         favicon: '/images/favicon/favicon.ico',
         manifest: {
           icons: [
@@ -89,14 +93,8 @@ export default defineUserConfig({
         apple: {
           icon: '/images/favicon/apple-touch-icon.png',
           statusBarColor: '#46bd87',
-      }
+        }
+      },
     },
-  },
-  plugins: [
-    shikiPlugin({
-      // 配置项
-      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
-      }) // highlight插件
-    ]
   })
 })

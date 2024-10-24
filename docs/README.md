@@ -3,7 +3,7 @@ home: true
 title: 主页
 icon: home
 heroImage: images/预合照.png
-heroText: |
+heroText: |-
     有兽焉 
     Minecraft粉丝服
     帮助中心
