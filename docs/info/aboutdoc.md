@@ -1,5 +1,5 @@
 ---
-next: /info/aboutserver.md
+next: /info/basic.md
 ---
 # 帮助文档概述
 
