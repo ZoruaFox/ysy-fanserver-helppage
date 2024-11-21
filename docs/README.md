@@ -41,7 +41,7 @@ actions:
   <div class="contributor-card">
     <img src="https://avatars.githubusercontent.com/u/45301993?&v=4" alt="Contributor 2" class="contributor-avatar">
     <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">白给</a></p>
+      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">未白</a></p>
       <p class="contributor-role">文档编写、样式设计</p>
     </div>
   </div>
