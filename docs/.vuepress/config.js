@@ -50,32 +50,27 @@ export default defineUserConfig({
       //   插件选项
       // },
       mdEnhance: {
-        // 添加选项卡支持
-        tabs: true,
-        codetabs: true,
         // 启用下角标功能
         sub: true,
         // 启用上角标
         sup: true,
         tasklist: true,
-        figure: true,
         // 启用图片懒加载
-        imgLazyload: true,
         // 启用图片标记
-        imgMark: true,
-        // 启用图片大小
-        imgSize: true,
         footnote: true,
         demo: true,
-        alert: true,
       },
-      copyCode: {},
-      shikiPlugin: {
-        // 配置项
-        langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'python', 'yaml', 'batch', 'cmd', 'java', 'powershell']
-      }, // 复制代码插件
+      shiki: {
+        themes: {
+          light: "one-light",
+          dark: "one-dark-pro",
+          },
+        },
+      markdownHint: true,
+      markdownImage: true,
+      markdownTab: true,
       pwa: {
-        showInstall: true,  
+        showInstall: true,
         favicon: '/images/favicon/favicon.ico',
         manifest: {
           icons: [
@@ -95,7 +90,8 @@ export default defineUserConfig({
           icon: '/images/favicon/apple-touch-icon.png',
           statusBarColor: '#46bd87',
         }
-      }
+      },
+      copyCode: true,
     },
   }),
 })
