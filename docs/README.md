@@ -20,6 +20,10 @@ actions:
 
 本页是有兽焉粉丝服帮助中心主页，在这里你可以阅读帮助文档，加入服务器，获取服务器状态。
 
+::: important Minecraft粉丝服三周目更新
+有兽焉Minecraft粉丝服务器正在进行周目更迭，服务器暂时下线，详情请进入群内查看。
+:::
+
 ::: tip 提示
 点击左侧按钮开始阅读帮助文档，点击右侧按钮按照提示加入服务器。
 :::
@@ -41,7 +45,7 @@ actions:
   <div class="contributor-card">
     <img src="https://avatars.githubusercontent.com/u/45301993?&v=4" alt="Contributor 2" class="contributor-avatar">
     <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">白给</a></p>
+      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">未白</a></p>
       <p class="contributor-role">文档编写、样式设计</p>
     </div>
   </div>
