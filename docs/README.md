@@ -66,7 +66,7 @@ actions:
   <div class="contributor-card">
     <img src="https://avatars.githubusercontent.com/u/126956027?&v=4" alt="Contributor 5" class="contributor-avatar">
     <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/BasicMirror268" target="_blank">十四行诗</a></p>
+      <p class="contributor-name"><a href="https://github.com/BasicMirror268" target="_blank">淩墟</a></p>
       <p class="contributor-role">文档编写</p>
     </div>
   </div>
