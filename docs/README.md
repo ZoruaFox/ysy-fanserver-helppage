@@ -34,7 +34,7 @@ actions:
 
 ### 文档贡献
 
-<div class="contributors">
+<div class="contributors-container">
   <div class="contributor-card full-width">
     <img src="https://avatars.githubusercontent.com/u/96456728?v=4" alt="Zorua Fox" class="contributor-avatar">
     <div class="contributor-info">
