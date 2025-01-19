@@ -36,10 +36,6 @@ export default hopeTheme({
 
   displayFooter: true,
 
-  metaLocales: {
-    editLink: "Edit this page on GitHub",
-  },
-
   routeLocales: {
     notFoundMsg: notFoundMsg
   },
@@ -102,6 +98,7 @@ export default hopeTheme({
     pwa: {
       showInstall: true,
       favicon: '/images/favicon/favicon.ico',
+      update: "force",
       manifest: {
         icons: [
           {
