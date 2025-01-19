@@ -21,7 +21,7 @@ actions:
 本页是有兽焉粉丝服帮助中心主页，在这里你可以阅读帮助文档，加入服务器，获取服务器状态。
 
 ::: important Minecraft粉丝服三周目更新
-有兽焉Minecraft粉丝服务器正在进行周目更迭，服务器暂时下线，详情请进入群内查看。
+有兽焉Minecraft粉丝服务器正在进行Beta测试，仅参与测试的玩家可进入服务器，详情请进入群内查看。
 :::
 
 ::: tip 提示
@@ -76,7 +76,7 @@ actions:
 
 <figure>
 
-![服务器健康度](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![服务器状态](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)![延迟](https://jiankong.zorua.top/api/badge/10/avg-response/1?style=for-the-badge)
+![服务器健康度](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge) ![服务器状态](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge) ![延迟](https://jiankong.zorua.top/api/badge/10/avg-response/1?style=for-the-badge)
 
 </figure>
 
