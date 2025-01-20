@@ -1,6 +1,8 @@
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
+import path from "path";
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 export default defineUserConfig({
   base: "/",
@@ -13,6 +15,12 @@ export default defineUserConfig({
 
   shouldPrefetch: false,
   theme,
+
+  plugins: [
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components')
+    })
+  ]
 
   // Enable it with pwa
   // shouldPrefetch: false,

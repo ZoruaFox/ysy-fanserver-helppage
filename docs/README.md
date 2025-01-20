@@ -28,49 +28,10 @@ actions:
 点击左侧按钮开始阅读帮助文档，点击右侧按钮按照提示加入服务器。
 :::
 
-服务器群号：`971327134`
-
-加群链接：[点此加入有兽焉 Java 粉丝服官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
+<join-server/>
 
 ### 文档贡献
-
-<div class="contributors-container">
-  <div class="contributor-card full-width">
-    <img src="https://avatars.githubusercontent.com/u/96456728?v=4" alt="Zorua Fox" class="contributor-avatar">
-    <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/ZoruaFox" target="_blank">Zorua Fox</a></p>
-      <p class="contributor-role">总策划</p>
-    </div>
-  </div>
-  <div class="contributor-card">
-    <img src="https://avatars.githubusercontent.com/u/45301993?&v=4" alt="Contributor 2" class="contributor-avatar">
-    <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/BaigeiGu" target="_blank">未白</a></p>
-      <p class="contributor-role">文档编写、样式设计</p>
-    </div>
-  </div>
-  <div class="contributor-card">
-    <img src="https://avatars.githubusercontent.com/u/75785656?&v=4" alt="Contributor 3" class="contributor-avatar">
-    <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/luobi125" target="_blank">罗比</a></p>
-      <p class="contributor-role">文档编写</p>
-    </div>
-  </div>
-  <div class="contributor-card">
-    <img src="https://avatars.githubusercontent.com/u/69202360?&v=4" alt="Contributor 4" class="contributor-avatar">
-    <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/RegadPoleCN" target="_blank">RegadPoleCN</a></p>
-      <p class="contributor-role">文档编写</p>
-    </div>
-  </div>
-  <div class="contributor-card">
-    <img src="https://avatars.githubusercontent.com/u/126956027?&v=4" alt="Contributor 5" class="contributor-avatar">
-    <div class="contributor-info">
-      <p class="contributor-name"><a href="https://github.com/BasicMirror268" target="_blank">淩墟</a></p>
-      <p class="contributor-role">文档编写</p>
-    </div>
-  </div>
-</div>
+<contributor-list/>
 
 ### 服务器状态
 
