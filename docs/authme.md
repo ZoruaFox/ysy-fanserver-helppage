@@ -2,9 +2,6 @@
 prev:
   text: 网易基岩版（豆皮运营）
   link: /join/bedrock-ne.md
-next:
-    text: 基本经济
-    link: /economy/basic.md
 ---
 # 服内注册与登录
 ## 注册

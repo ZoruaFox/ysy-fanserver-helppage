@@ -4,7 +4,7 @@ prev:
     link: /economy/market.md
 next:
     text: 领地
-    link: /play/residence.md
+    link: /feature/residence.md
 ---
 # 常用指令集
 作为生<del>电</del>存服，服务器服务器的常用指令能对你在游玩服务器的时候更加便捷，</br>
