@@ -4,7 +4,7 @@ prev:
     link: /economy/market.md
 next:
     text: 领地
-    link: /play/residence.md
+    link: /feature/residence.md
 ---
 # 常用指令集
 作为生<del>电</del>存服，服务器服务器的常用指令能对你在游玩服务器的时候更加便捷，</br>
@@ -19,8 +19,8 @@ next:
 |`/delhome`|删除你设定的家|删除家|
 |`/sethome`|在你脚下的第一个实体方块上设置家（地狱无法设置）|设置家|
 |`/home`|直接输入即可|传送回你设定的家|
-|`/tpa`|`/tpa 玩家ID`|发送传送到指定玩家的请求|
-|`/tpahere`|`/tpahere`|发送指定玩家传送到这里的请求|
+|`/tpa`|直接输入即可|发送传送到指定玩家的请求|
+|`/tpahere`|直接输入即可|发送指定玩家传送到这里的请求|
 |`/tpaall`|直接输入即可|向在线玩家发送传送到你身边的请求|
-|`/pay`|`/pay 玩家ID 转账金额`|向其他玩家转账（无需对方确认）|
-|`/res tp 领地名称`|传送到指定领地|领地传送|
+|`/pay`|`/pay <玩家ID> 转账金额`|向其他玩家转账（无需对方确认）|
+|`/dominion tp`|`/dominion tp <领地名称>`|传送到指定领地|
