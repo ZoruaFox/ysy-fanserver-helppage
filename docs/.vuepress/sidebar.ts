@@ -48,6 +48,7 @@ export default sidebar({
         "basic.md",
         "coins.md",
         "points.md",
+        "permissions.md",
         "market.md"
       ]
     },
@@ -58,7 +59,7 @@ export default sidebar({
       "collapsible": true,
       "children": [
         "season.md",
-        "residence.md",
+        "dominion.md",
         "pvp.md",
         "bedwars.md",
         "title.md",

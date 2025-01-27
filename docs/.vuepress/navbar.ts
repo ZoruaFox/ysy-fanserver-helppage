@@ -52,7 +52,7 @@ export default navbar([
       },
       {
         "text": "领地",
-        "link": "/feature/residence.md"
+        "link": "/feature/dominion.md"
       },
       {
         "text": "QQ群互通",
