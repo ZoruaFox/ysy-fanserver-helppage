@@ -12,15 +12,16 @@ next:
 服务器的地址为：`mc.zorua.top`，需要申请白名单以进入。
 :::
 ## 1. 下载客户端
-不同的客户端均可进入纯净版生存服，包括Forge、Fabric、Vanilla等等。为大家提供几个客户端的下载链接：
+客户端需使用启动器启动，大部分的客户端均可进入服务器，包括Forge、Fabric、Vanilla等。下面为一些常见启动器的链接。
 
 - [x] [原版客户端](https://www.minecraft.net/zh-hans/download/alternative)
 - [x] [PCL2 作者：龙腾猫跃](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
 - [x] [HMCL 作者：huanghongxun](https://github.com/HMCL-dev/HMCL/releases)
-- [ ] [（安卓）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
+- [ ] [（移动端）FoldCraftLauncher 作者：FCL-Team](https://github.com/FCL-Team/FoldCraftLauncher)
+- [ ] [（移动端）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
 
 ## 2. 版本选择
-请选择1.21.1版本，如果你的客户端没有1.21.1版本请在启动器中添加，原版、Forge、Fabric均可。各个启动器的使用方法不再赘述。
+请选择1.21.1版本，如果你的客户端没有1.21.1版本请在启动器中添加。各个启动器的使用方法不再赘述。
 
 ::: tip 提示
 Minecarft 1.21.1 需要使用 ``JDK 21`` 运行，如果你的电脑上没有安装 ``JDK 21`` ，请前往下列网站之一选择一个JDK版本下载安装，或由您的启动器协助安装。
@@ -37,7 +38,7 @@ Oracle JDK 21：[下载 Oracle JDK 21](https://www.oracle.com/cn/java/technologi
 :::
 
 ## 3. 添加白名单
-为了控制玩家素质与粉丝服性质，服务器采用了入群审核制，只有成为群成员才可以进入服务器。
+为了控制玩家素质与粉丝服性质，服务器采用了入群审核制，只有成为群成员并申请白名单，才可以进入服务器。
 
 > 服务器群号：`971327134`<br>
 加群链接：[点此加入有兽焉 Java 粉丝服官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
