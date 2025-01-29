@@ -2,7 +2,7 @@
 next:
   text: FAQ
   link: /faq.md
---
+---
 # QQ群与服务器
 
 ## QQ群消息互通
