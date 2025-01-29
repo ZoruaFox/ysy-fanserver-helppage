@@ -36,6 +36,7 @@ export default hopeTheme({
 
   displayFooter: true,
 
+  contributors: false,
   routeLocales: {
     notFoundMsg: notFoundMsg
   },
