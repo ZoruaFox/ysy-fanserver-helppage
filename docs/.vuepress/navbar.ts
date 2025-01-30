@@ -70,6 +70,10 @@ export default navbar([
       {
         "text": "封禁记录",
         "link": "https://ban.mc.zorua.top"
+      },
+      {
+        "text": "状态监控",
+        "link": "https://jiankong.zorua.top"
       }
     ]
   }
