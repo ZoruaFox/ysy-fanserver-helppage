@@ -96,28 +96,5 @@ export default hopeTheme({
     },
 
     searchPro: {},
-    pwa: {
-      showInstall: true,
-      favicon: '/images/favicon/favicon.ico',
-      update: "force",
-      manifest: {
-        icons: [
-          {
-            "sizes": "192x192",
-            "src": "/images/favicon/android-chrome-192x192.png",
-            "type": "image/png"
-          },
-          {
-            "sizes": "512x512",
-            "src": "/images/favicon/android-chrome-512x512.png",
-            "type": "image/png"
-          }
-        ]
-      },
-      apple: {
-        icon: '/images/favicon/apple-touch-icon.png',
-        statusBarColor: '#46bd87',
-      }
-    }
   },
 });

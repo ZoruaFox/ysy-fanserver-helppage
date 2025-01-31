@@ -3,6 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import path from "path";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import { removePwaPlugin } from '@vuepress/plugin-remove-pwa'
 
 export default defineUserConfig({
   base: "/",
@@ -19,7 +20,13 @@ export default defineUserConfig({
   plugins: [
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components')
-    })
+    }),
+    removePwaPlugin(
+      {
+        cachePrefix: 'workbox',
+
+      }
+    )
   ]
 
   // Enable it with pwa

@@ -21,6 +21,9 @@ importers:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.18
         version: 2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0)
+      '@vuepress/plugin-remove-pwa':
+        specifier: 2.0.0-rc.54
+        version: 2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13))
       sass-embedded:
         specifier: ^1.83.4
         version: 1.83.4
@@ -1402,6 +1405,11 @@ packages:
 
   '@vuepress/plugin-register-components@2.0.0-rc.54':
     resolution: {integrity: sha512-3EXVijNTZv8D33X1zKfP05CYSkkwYhzh+fsVlUMyScot2qUGGxcK1eFktjfueJmYuZpZmSXL82mVWtF2TkHE9A==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.18
+
+  '@vuepress/plugin-remove-pwa@2.0.0-rc.54':
+    resolution: {integrity: sha512-zm1CltcTL9r4O9hLV7+V3yYktJ5/8S2K9FOYwOu5U8bFk4r4/ac6sKw8UBnxcyI1WkijF29qIekgN6uFh0+nWw==}
     peerDependencies:
       vuepress: 2.0.0-rc.18
 
@@ -5036,6 +5044,10 @@ snapshots:
   '@vuepress/plugin-register-components@2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13))':
     dependencies:
       chokidar: 3.6.0
+      vuepress: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13)
+
+  '@vuepress/plugin-remove-pwa@2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13))':
+    dependencies:
       vuepress: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13)
 
   '@vuepress/plugin-rtl@2.0.0-rc.56(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.10.7)(sass-embedded@1.83.4)(terser@5.37.0)(yaml@2.6.0))(vue@3.5.13))':
