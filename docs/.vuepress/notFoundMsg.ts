@@ -21,7 +21,8 @@ const notFoundMsg = [
     "人！你必须要给我一个大大的抱抱！",
     "不给我抱抱的话...呜。。。我就！我就！可劲哭哭呜呜呜呜呜呜",
     "114514年后建材收购就可以放竹子啦！",
-    "work work work work"
+    "work work work work",
+    "未白：我就不应该更新文档依赖 一片deprecated（哭哭"
 ]
 
 export default notFoundMsg
