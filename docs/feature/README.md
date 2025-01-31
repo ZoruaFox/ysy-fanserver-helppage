@@ -4,7 +4,7 @@ title: 服务器机制介绍
 
 1. [真实季节与时间](season.md)
 
-2. [领地](residence.md)
+2. [领地](dominion.md)
 
 3. [PVP](pvp.md)
 
