@@ -57,7 +57,6 @@
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 24px;
-    flex: 1;
     box-sizing: border-box;
 }
 
