@@ -2,6 +2,7 @@
 
 :::tip
 此页面含有尚未确定的内容，TBD代表尚待决定，仅供参考。
+本服务器为公益服务器，不收取任何费用，所有权限组均可在服务器内肝出货币换取。
 :::
 
 <table style='text-align:center;'>
@@ -15,10 +16,10 @@
             <th>花费</th><td>默认拥有</td><td>TBD</td><td>TBD</td><td>TBD</td>
         </tr>
         <tr>
-            <th>显示权标</th><td>×</td><td>[BP]</td><td>[SP]</td><td>[<span style="color:#fcfc54;">GP</span>]</td>
+            <th>显示权标</th><td>❌</td><td>[BP]</td><td>[SP]</td><td>[<span style="color:#fcfc54;">GP</span>]</td>
         </tr>
         <tr>
-            <th>自定义称号</th><td>×</td><td>×</td><td>√</td><td>√</td>
+            <th>自定义称号</th><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
             <th>随机传送范围</th><td>主世界：20000格<br>下界、末地：5000格</td><td>主世界：40000格<br>下界、末地：6000格</td><td>主世界：60000格<br>下界、末地：7000格</td><td>主世界：80000格<br>下界、末地：8000格</td>
@@ -53,19 +54,19 @@
             <th>挂机移出</th><td>10分钟</td><td>30分钟</td><td>60分钟</td><td>120分钟</td>
         </tr>
         <tr>
-            <th>全球飞行<br>（除小游戏服）</th><td>×</td><td>√</td><td>√</td><td>√</td>
+            <th>全球飞行<br>（除小游戏服）</th><td>❌</td><td>✅</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
-            <th>进服自动签到</th><td>×</td><td>√</td><td>√</td><td>√</td>
+            <th>进服自动签到</th><td>❌</td><td>✅</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
-            <th>每日签到加成</th><td>×</td><td>×</td><td>×</td><td>200%</td>
+            <th>每日签到加成</th><td>❌</td><td>❌</td><td>❌</td><td>200%</td>
         </tr>
         <tr>
-            <th>连续签到加成</th><td>×</td><td>160%</td><td>160%</td><td>200%</td>
+            <th>连续签到加成</th><td>❌</td><td>160%</td><td>160%</td><td>200%</td>
         </tr>
         <tr>
-            <th>进服烟花特效</th><td>×</td><td>√</td><td>√</td><td>√</td>
+            <th>进服烟花特效</th><td>❌</td><td>✅</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
             <th>领地数量</th><td>5</td><td>10</td><td>15</td><td>20</td>
@@ -78,3 +79,8 @@
         </tr>
     </tbody>
 </table>
+
+:::info
+自定义称号为主动向服主申报，三个月内仅能修改1次。  
+领地传送无论任何等级会员均有5s前摇。
+:::
