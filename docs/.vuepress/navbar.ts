@@ -74,7 +74,11 @@ export default navbar([
       {
         "text": "状态监控",
         "link": "https://jiankong.zorua.top"
-      }
+      },
+      {
+        "text": "皮肤站",
+        "link": "https://skin.mc.zorua.top"
+      },
     ]
   }
 ]);
