@@ -15,7 +15,7 @@ next:
 客户端需使用启动器启动，大部分的客户端均可进入服务器，包括Forge、Fabric、Vanilla等。下面为一些常见启动器的链接。
 
 - [x] [原版客户端](https://www.minecraft.net/zh-hans/download/alternative)
-- [x] [PCL2 作者：龙腾猫跃](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
+- [x] [PCL2 作者：龙腾猫跃](https://afdian.com/p/0164034c016c11ebafcb52540025c377)
 - [x] [HMCL 作者：huanghongxun](https://github.com/HMCL-dev/HMCL/releases)
 - [ ] [（移动端）FoldCraftLauncher 作者：FCL-Team](https://github.com/FCL-Team/FoldCraftLauncher)
 - [ ] [（移动端）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
