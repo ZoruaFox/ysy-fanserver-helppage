@@ -21,10 +21,12 @@ next:
 - [ ] [（移动端）PojavLauncher 作者：PojavLauncher Team](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
 
 ## 2. 版本选择
-请选择1.21.1版本，如果你的客户端没有1.21.1版本请在启动器中添加。各个启动器的使用方法不再赘述。
+请选择1.21.4版本，如果你的客户端没有1.21.4版本请在启动器中添加。各个启动器的使用方法不再赘述。
 
 ::: tip 提示
-Minecarft 1.21.1 需要使用 ``JDK 21`` 运行，如果你的电脑上没有安装 ``JDK 21`` ，请前往下列网站之一选择一个JDK版本下载安装，或由您的启动器协助安装。
+由于服务器安装了`ViaBackward`插件 `1.21`~`1.21.4` 版本都可以进入游戏，先前已安装此范围内其他版本的玩家可尝试进入游戏游玩。
+
+Minecarft 1.21.4 需要使用 ``JDK 21`` 运行，如果你的电脑上没有安装 ``JDK 21`` ，请前往下列网站之一选择一个JDK版本下载安装，或由您的启动器协助安装。
 
 Microsoft Build of OpenJDK：[下载 Microsoft Build of OpenJDK](https://learn.microsoft.com/zh-cn/java/openjdk/download#openjdk-21)
 
