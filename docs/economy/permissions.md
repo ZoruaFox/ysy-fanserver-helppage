@@ -23,7 +23,7 @@
             <th>显示权标</th><td>❌</td><td>[BP]</td><td>[SP]</td><td>[<span style="color:#fcfc54;">GP</span>]</td>
         </tr>
         <tr>
-            <th><a href="../feature/title.md#自定义称号">自定义称号</a></th><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
+            <th><a href="../feature/title.html#自定义称号">自定义称号</a></th><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
             <th>随机传送范围</th><td>主世界：20000格<br>下界、末地：5000格</td><td>主世界：40000格<br>下界、末地：6000格</td><td>主世界：60000格<br>下界、末地：7000格</td><td>主世界：80000格<br>下界、末地：8000格</td>
