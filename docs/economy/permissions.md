@@ -13,13 +13,17 @@
     </thead>
     <tbody>
         <tr>
-            <th>花费</th><td>默认拥有</td><td>TBD</td><td>TBD</td><td>TBD</td>
+            <th>花费</th>
+            <td>默认拥有</td>
+            <td>7天：50点券<br>30天：150点券<br>90天：300点券</td>
+            <td>7天：100点券<br>30天：300点券<br>90天：600点券</td>
+            <td>7天：150点券<br>30天：450点券<br>90天：900点券</td>
         </tr>
         <tr>
             <th>显示权标</th><td>❌</td><td>[BP]</td><td>[SP]</td><td>[<span style="color:#fcfc54;">GP</span>]</td>
         </tr>
         <tr>
-            <th>自定义称号</th><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
+            <th><a href="../feature/title.md#自定义称号">自定义称号</a></th><td>❌</td><td>❌</td><td>✅</td><td>✅</td>
         </tr>
         <tr>
             <th>随机传送范围</th><td>主世界：20000格<br>下界、末地：5000格</td><td>主世界：40000格<br>下界、末地：6000格</td><td>主世界：60000格<br>下界、末地：7000格</td><td>主世界：80000格<br>下界、末地：8000格</td>
@@ -81,6 +85,5 @@
 </table>
 
 :::info
-自定义称号为主动向服主申报，三个月内仅能修改1次。  
 领地传送无论任何等级会员均有5s前摇。
 :::
