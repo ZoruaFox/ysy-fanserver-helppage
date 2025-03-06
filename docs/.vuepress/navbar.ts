@@ -52,7 +52,7 @@ export default navbar([
       },
       {
         "text": "领地",
-        "link": "/feature/residence.md"
+        "link": "/feature/dominion.md"
       },
       {
         "text": "QQ群互通",
@@ -70,7 +70,15 @@ export default navbar([
       {
         "text": "封禁记录",
         "link": "https://ban.mc.zorua.top"
-      }
+      },
+      {
+        "text": "状态监控",
+        "link": "https://jiankong.zorua.top"
+      },
+      {
+        "text": "皮肤站",
+        "link": "https://skin.mc.zorua.top"
+      },
     ]
   }
 ]);
