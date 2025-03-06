@@ -79,6 +79,11 @@ export default navbar([
         "text": "皮肤站",
         "link": "https://skin.mc.zorua.top"
       },
+      {
+        "text": "地图站",
+        "link": "https://map.mc.zorua.top/"
+      },
+
     ]
   }
 ]);
