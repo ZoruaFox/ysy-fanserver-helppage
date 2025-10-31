@@ -25,7 +25,7 @@ next:
 
 ::: tip 提示
 
-Minecarft 1.21.5 需要使用 ``JDK 21`` 运行，如果你的电脑上没有安装 ``JDK 21`` ，请前往下列网站之一选择一个JDK版本下载安装，或由您的启动器协助安装。
+Minecarft 1.21.8 需要使用 ``JDK 21`` 运行，如果你的电脑上没有安装 ``JDK 21`` ，请前往下列网站之一选择一个JDK版本下载安装，或由您的启动器协助安装。
 
 Microsoft Build of OpenJDK：[下载 Microsoft Build of OpenJDK](https://learn.microsoft.com/zh-cn/java/openjdk/download#openjdk-21)
 
