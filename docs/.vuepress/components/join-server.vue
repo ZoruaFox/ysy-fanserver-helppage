@@ -11,7 +11,7 @@ const copyContent = async (text) => {
             <p class="server-name">服务器信息</p>
             <p class="server-description">
                 地址：<code><span class="copyable" @click="copyContent">mc.zorua.top</span></code></p>
-            <p class="server-description">版本： 1.21.5</p>
+            <p class="server-description">版本： 1.21.8</p>
             <p class="server-notice">需进群加入白名单</p>
         </div>
         <div class="qq-group join-card">
